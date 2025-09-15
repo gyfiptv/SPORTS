@@ -7,24 +7,89 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
-http://fortv.cc:8080/Boobear/Boobear/120780
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt1)
+http://fortv.cc:8080/Boobear/Boobear/57969
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.ts
 
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸46692 UNIVISION 23 MIAMI (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/46692.ts
 
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.ts
 
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt1)
-http://fortv.cc:8080/Boobear/Boobear/57969
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt2)
-http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸725 UNIVISION LOS ANGELES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸726 UNIVISION CHICAGO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸727 TUDN | UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸729 UNIVISION 23 MI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/729
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸729 UNIVISION 23 MI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸729 UNIVISION 23 MI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸730 UNIVISION 41 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.ts
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸682 TELEMUNDO 47 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸685 TELEMUNDO 51 MIAMI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/685
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸685 TELEMUNDO 51 MIAMI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸685 TELEMUNDO 51 MIAMI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸686 TELEMUNDO 39 KANSAS CITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸687 TELEMUNDO 60
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸692 TELEMUNDO 52 LA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸694 TELEMUNDO LAS VEGAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3875 TELEMUNDO 47 NY
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3876 TELEMUNDO CHICAGO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3878 TELEMUNDO 62 FILADELFIA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3879 TELEMUNDO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3880 TELEMUNDO 39 DALLAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3883 TELEMUNDO NVA INGLATERRA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3886 TELEMUNDO 40 TX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3889 TELEMUNDO 51 MIAMI (opt1)
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3889 TELEMUNDO 51 MIAMI (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3889.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120691
@@ -41,26 +106,9 @@ http://fortv.cc:8080/Boobear/Boobear/120833
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3875 TELEMUNDO 47 NY
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3876 TELEMUNDO CHICAGO
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3878 TELEMUNDO 62 FILADELFIA
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3879 TELEMUNDO
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3880 TELEMUNDO 39 DALLAS
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3883 TELEMUNDO NVA INGLATERRA
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3886 TELEMUNDO 40 TX
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3889 TELEMUNDO 51 MIAMI
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
+http://fortv.cc:8080/Boobear/Boobear/120780
+
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸2210 ESPN 2
 http://fortv.cc:8080/Boobear/Boobear/2210
@@ -584,19 +632,19 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=“Fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
-http://185.189.225.150:85/fdf/index.m3u8
+http://185.189.225.149/fdf/index.m3u8
 #EXTINF:-1 tvg-id=“fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
 http://185.189.225.149/fdf/index.m3u8
 #EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
-http://185.189.225.150:85/GOLPLAY/index.m3u8
+http://185.189.225.149/GOLPLAY/index.m3u8
 #EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
 http://185.189.225.149/GOLPLAY/index.m3u8
 #EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
-http://185.189.225.150:85/Iberalia/index.m3u8
+http://185.189.225.149/Iberalia/index.m3u8
 #EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
 http://185.189.225.149/iberalia/index.m3u8
 #EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
-http://185.189.225.150:85/mega/index.m3u8
+http://185.189.225.149/mega/index.m3u8
 #EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
 http://185.189.225.149/mega/index.m3u8 
 
@@ -606,11 +654,12 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPNU
 http://41.205.93.154/ESPNU/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPNNEWS 
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² TBS |E!
 http://41.205.93.154/TBS/index.m3u8
+
+
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ GSN | Game Show Network
 https://streamer1.nexgen.bz/GSN/index.m3u8
 #EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
