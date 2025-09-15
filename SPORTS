@@ -1,179 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽SPORTSworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐", ##########  ♥ 01 ⚽SPORTSworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 01 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐",🇪🇸120780 D1R3CTV
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
 
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸3697 UNIVISION | VIX
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
 
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸57969 UNIMAS (opt1)
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt1)
 http://fortv.cc:8080/Boobear/Boobear/57969
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸57969 UNIMAS (opt2)
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸57969 UNIMAS (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3847 UNIVERSO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
 
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120691
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt2)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120691.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt1)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120768
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt2)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120768.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt1)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120833
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3875 TELEMUNDO 47 NY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3875 TELEMUNDO 47 NY
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3876 TELEMUNDO CHICAGO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3876 TELEMUNDO CHICAGO
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3878 TELEMUNDO 62 FILADELFIA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3878 TELEMUNDO 62 FILADELFIA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3879 TELEMUNDO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3879 TELEMUNDO
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3880 TELEMUNDO 39 DALLAS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3880 TELEMUNDO 39 DALLAS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3883 TELEMUNDO NVA INGLATERRA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3883 TELEMUNDO NVA INGLATERRA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3886 TELEMUNDO 40 TX
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3886 TELEMUNDO 40 TX
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3889 TELEMUNDO 51 MIAMI
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸2210 ESPN 2
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸2210 ESPN 2
 http://fortv.cc:8080/Boobear/Boobear/2210
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸2213 FANDUEL SPORTS NETWORK EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2213 FANDUEL SPORTS NETWORK EN|ES
 http://fortv.cc:8080/Boobear/Boobear/2213
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸2219 SN | Spectrum SPORTS NET+ LA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸2219 SN | Spectrum SPORTS NET+ LA
 http://fortv.cc:8080/Boobear/Boobear/2219
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸9244 OUTDOOR CHANNEL EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9244 OUTDOOR CHANNEL EN|ES
 http://fortv.cc:8080/Boobear/Boobear/9244
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸9273 ACCN ESPN EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9273 ACCN ESPN EN|ES
 http://fortv.cc:8080/Boobear/Boobear/9273
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸9276 FANDUEL TV
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9276 FANDUEL TV
 http://fortv.cc:8080/Boobear/Boobear/9276
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸10389 TSN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸10389 TSN
 http://fortv.cc:8080/Boobear/Boobear/10389
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸10399 MT | MOTORTREND
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸10399 MT | MOTORTREND
 http://fortv.cc:8080/Boobear/Boobear/10399
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸13379 MARQUEE Sports Network EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸13379 MARQUEE Sports Network EN|ES
 http://fortv.cc:8080/Boobear/Boobear/13379
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸20865 OUTSIDE TV EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸20865 OUTSIDE TV EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20865
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20926 NBC SPORTS NETWORK FL 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20926 NBC SPORTS NETWORK FL 
 http://fortv.cc:8080/Boobear/Boobear/20926
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20927 FANDUEL SPORTS NETWORK 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20927 FANDUEL SPORTS NETWORK 
 http://fortv.cc:8080/Boobear/Boobear/20927
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20928 FANDUEL SPORTS NETWORK EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20928 FANDUEL SPORTS NETWORK EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20928
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20929 FANDUEL SPORTS NETWORK EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20929 FANDUEL SPORTS NETWORK EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20929
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20930 FANDUEL SPORTS NETWORK EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20930 FANDUEL SPORTS NETWORK EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20930
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸20931 FANDUEL SPORTS NETWORK EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸20931 FANDUEL SPORTS NETWORK EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20931
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20932 FANDUEL SPORTS NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20932 FANDUEL SPORTS NETWORK
 http://fortv.cc:8080/Boobear/Boobear/20932
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20934 FANDUEL SPORTS NETWORK 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20934 FANDUEL SPORTS NETWORK 
 http://fortv.cc:8080/Boobear/Boobear/20934
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20936 FANDUEL SPORTS NETWORK 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20936 FANDUEL SPORTS NETWORK 
 http://fortv.cc:8080/Boobear/Boobear/20936
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20938 SNY | Sportsnet New York 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20938 SNY | Sportsnet New York 
 http://fortv.cc:8080/Boobear/Boobear/20938
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20939 NBC SPORTS BOSTON EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20939 NBC SPORTS BOSTON EN|ES
 http://fortv.cc:8080/Boobear/Boobear/20939
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20940 NBC SPORTS CALIFORNIA 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20940 NBC SPORTS CALIFORNIA 
 http://fortv.cc:8080/Boobear/Boobear/20940
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20941 CHSN STREAM |SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20941 CHSN STREAM |SPORTS
 http://fortv.cc:8080/Boobear/Boobear/20941
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20942 ROOT Sports Northwest
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20942 ROOT Sports Northwest
 http://fortv.cc:8080/Boobear/Boobear/20942
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20943 NBC SPORTS PHILADELPHIA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20943 NBC SPORTS PHILADELPHIA
 http://fortv.cc:8080/Boobear/Boobear/20943
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20944 M ENCORE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20944 M ENCORE
 http://fortv.cc:8080/Boobear/Boobear/20944
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸20946 SPECTRUM SportsNet Lakers | VSIN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸20946 SPECTRUM SportsNet Lakers | VSIN
 http://fortv.cc:8080/Boobear/Boobear/20946
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸21842 SPECTRUM SportsNet Lakers EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸21842 SPECTRUM SportsNet Lakers EN|ES
 http://fortv.cc:8080/Boobear/Boobear/21842
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸21843 FANDUEL SPORTS NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸21843 FANDUEL SPORTS NETWORK
 http://fortv.cc:8080/Boobear/Boobear/21843
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸31636 SPECTRUM SportsNet LA Dodgers 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸31636 SPECTRUM SportsNet LA Dodgers 
 http://fortv.cc:8080/Boobear/Boobear/31636
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸31637 NESN |Sports EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸31637 NESN |Sports EN|ES
 http://fortv.cc:8080/Boobear/Boobear/31637
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸46688 TNT 
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸46688 TNT 
 http://fortv.cc:8080/Boobear/Boobear/46688
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸46726 NESN EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸46726 NESN EN|ES
 http://fortv.cc:8080/Boobear/Boobear/46726
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸46728 GOLF Channel EN|ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸46728 GOLF Channel EN|ES
 http://fortv.cc:8080/Boobear/Boobear/46728
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57292 TSN 1 CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57292 TSN 1 CA
 http://fortv.cc:8080/Boobear/Boobear/57292
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57295 TSN 5 CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57295 TSN 5 CA
 http://fortv.cc:8080/Boobear/Boobear/57295
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57296 SN | SPORTSNET+ CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57296 SN | SPORTSNET+ CA
 http://fortv.cc:8080/Boobear/Boobear/57296
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57297 SN | SPORTSNET+ CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57297 SN | SPORTSNET+ CA
 http://fortv.cc:8080/Boobear/Boobear/57297
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57298 SN | SPORTSNET+ CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57298 SN | SPORTSNET+ CA
 http://fortv.cc:8080/Boobear/Boobear/57298
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57299 SN | SPORTSNET+ CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57299 SN | SPORTSNET+ CA
 http://fortv.cc:8080/Boobear/Boobear/57299
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57300 SN | SPORTSNET CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57300 SN | SPORTSNET CA
 http://fortv.cc:8080/Boobear/Boobear/57300
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57362 GOLF Channel CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57362 GOLF Channel CA
 http://fortv.cc:8080/Boobear/Boobear/57362
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57430 GAME SHOW NETWORK CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57430 GAME SHOW NETWORK CA
 http://fortv.cc:8080/Boobear/Boobear/57430
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57463 SN SPORTSNET CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57463 SN SPORTSNET CA
 http://fortv.cc:8080/Boobear/Boobear/57463
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57467 TSN 5 CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57467 TSN 5 CA
 http://fortv.cc:8080/Boobear/Boobear/57467
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57471 FISHING TV | REEL LIFE CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57471 FISHING TV | REEL LIFE CA
 http://fortv.cc:8080/Boobear/Boobear/57471
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57472 YES TV CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57472 YES TV CA
 http://fortv.cc:8080/Boobear/Boobear/57472
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57498 TVA SPORTS CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57498 TVA SPORTS CA
 http://fortv.cc:8080/Boobear/Boobear/57498
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦57972 YES Network CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57972 YES Network CA
 http://fortv.cc:8080/Boobear/Boobear/57972
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦66372 ESPN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦66372 ESPN
 http://fortv.cc:8080/Boobear/Boobear/66372
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸79544 RUSH SPORTS ON FLOW
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸79544 RUSH SPORTS ON FLOW
 http://fortv.cc:8080/Boobear/Boobear/79544
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸79545 ALTITUDE SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸79545 ALTITUDE SPORTS
 http://fortv.cc:8080/Boobear/Boobear/79545
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸120633 GAME SHOW NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸120633 GAME SHOW NETWORK
 http://fortv.cc:8080/Boobear/Boobear/120633
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸120780 D1R3CTV SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸120780 D1R3CTV SPORTS
 http://fortv.cc:8080/Boobear/Boobear/120780
 
 
@@ -181,543 +181,543 @@ http://fortv.cc:8080/Boobear/Boobear/120780
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽SPORTSworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐", ##########  ♥ 02 ⚽SPORTSworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 02 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 02 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 02 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐",🇪🇸120780 D1R3CTV
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹803 ESPN PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹803 ESPN PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/803
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸833 ONETORO TV ES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸833 ONETORO TV ES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/833
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹838 SPORTING TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹838 SPORTING TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/838
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹839 SPORT TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹839 SPORT TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/839
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹840 SPORT TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹840 SPORT TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/840
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹842 SPORT TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹842 SPORT TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/842
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹843 SPORT TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹843 SPORT TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/843
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹844 SPORT TV 3 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹844 SPORT TV 3 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/844
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹845 SPORT TV 3 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹845 SPORT TV 3 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/845
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹846 SPORT TV 2 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹846 SPORT TV 2 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/846
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹847 SPORT TV 2 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹847 SPORT TV 2 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/847
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹848 SPORT TV 1 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹848 SPORT TV 1 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/848
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹849 SPORT TV 1 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹849 SPORT TV 1 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/849
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸878 NBA SPORT TV PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸878 NBA SPORT TV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/878
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸884 MOTORVISION PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸884 MOTORVISION PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/884
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹892 COMBATE PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹892 COMBATE PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/892
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹910 EUROSPORT 2 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹910 EUROSPORT 2 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/910
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹911 EUROSPORT 1 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹911 EUROSPORT 1 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/911
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹915 DAZN PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹915 DAZN PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/915
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹916 DAZN PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹916 DAZN PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/916
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹917 DAZN PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹917 DAZN PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/917
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹918 DAZN 5 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹918 DAZN 5 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/918
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹919 DAZN 4 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹919 DAZN 4 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/919
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹920 DAZN 4 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹920 DAZN 4 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/920
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹921 DAZN 3 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹921 DAZN 3 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/921
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹922 DAZN 3 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹922 DAZN 3 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/922
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹923 DAZN 2 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹923 DAZN 2 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/923
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹924 DAZN 2 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹924 DAZN 2 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/924
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹925 DAZN 1 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹925 DAZN 1 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/925
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇵🇹926 DAZN 1 PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇵🇹926 DAZN 1 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/926
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸949 CAZA Y PESCA PT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸949 CAZA Y PESCA PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/949
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸1636 ESPN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1636 ESPN
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1636
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2180 SKY SPORTS Mix
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2180 SKY SPORTS Mix
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2180
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2181 SKY SPORTS Premier League
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2181 SKY SPORTS Premier League
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2181
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2182 SKY SPORTS Premier League
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2182 SKY SPORTS Premier League
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2182
 
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2185 SKY SPORTS News
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2185 SKY SPORTS News
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2185
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2186 SKY SPORTS golf
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2186 SKY SPORTS golf
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2186
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2187 SKY SPORTS golf
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2187 SKY SPORTS golf
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2187
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2188 SKY SPORTS football
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2188 SKY SPORTS football
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2188
 
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2189 SKY SPORTS F1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2189 SKY SPORTS F1
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2189
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2190 SKY SPORTS F1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2190 SKY SPORTS F1
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2190
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2194 SKY SPORTS action
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2194 SKY SPORTS action
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2194
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇬🇧2195 SKY SPORTS action
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇬🇧2195 SKY SPORTS action
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/2195
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3613 BEIN SPORTS N
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3613 BEIN SPORTS N
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3613
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3636 ESPN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3636 ESPN
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3636
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3637 ESPN 8 | THE OCHO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3637 ESPN 8 | THE OCHO
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3637
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3638 ESPN U
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3638 ESPN U
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3638
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3639 ESPN DEPORTES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3639 ESPN DEPORTES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3639
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3640 ESPN NEWS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3640 ESPN NEWS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3640
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3645 FS1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3645 FS1
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3645
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3646 FS2
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3646 FS2
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3646
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3650 GAME SHOW NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3650 GAME SHOW NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3650
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3651 GOLF NBC
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3651 GOLF NBC
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3651
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3662 MT | MOTORTREND
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3662 MT | MOTORTREND
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3662
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3667 NBA TV UHD
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3667 NBA TV UHD
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3667
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3668 NBC 6 MIAMI SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3668 NBC 6 MIAMI SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3668
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3669 NBC SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3669 NBC SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3669
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3670 NFL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3670 NFL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3670
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3671 NFL RED ZONE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3671 NFL RED ZONE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3671
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3672 NHL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3672 NHL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3672
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3683 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3683 TNT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3683
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3684 TBS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3684 TBS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3684
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3685 TENNIS CHANNEL UHD
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3685 TENNIS CHANNEL UHD
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3685
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3688 TRU TV
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3688 TRU TV
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3688
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3694 USA NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3694 USA NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3694
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3695 YES NETWORK | NY YANKEES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3695 YES NETWORK | NY YANKEES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3695
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3697 UNIVISION | VIX
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3697 UNIVISION | VIX
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3701 WWE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3701 WWE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3701
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3706 BEIN SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3706 BEIN SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3706
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3712 CBS SPORTS NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3712 CBS SPORTS NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3712
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3725 ESPN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3725 ESPN
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3725
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3726 ESPN 2
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3726 ESPN 2
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3726
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3728 ESPN NEWS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3728 ESPN NEWS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3728
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3732 FS1 | LEAGUES CUP
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3732 FS1 | LEAGUES CUP
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3732
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3746 MLB TV
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3746 MLB TV
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3746
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3747 MT MOTORTREND
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3747 MT MOTORTREND
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3747
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3751 NBA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3751 NBA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3751
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3752 NFL RED ZONE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3752 NFL RED ZONE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3752
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3753 NBC SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3753 NBC SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3753
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3754 NFL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3754 NFL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3754
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3761 TBS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3761 TBS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3761
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3762 TENNIS CHANNEL
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3762 TENNIS CHANNEL
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3762
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3764 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3764 TNT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3764
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3766 TRU TV
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3766 TRU TV
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3766
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3767 USA NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3767 USA NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3767
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3769 NBC SPORTS PHILADELPHIA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3769 NBC SPORTS PHILADELPHIA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3769
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3770 MONUMENTAL TV SPORTS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3770 MONUMENTAL TV SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3770
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3772 NBC SPORTS BOSTON
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3772 NBC SPORTS BOSTON
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3772
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3776 YES NETWORK | NY YANKEES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3776 YES NETWORK | NY YANKEES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3776
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3781 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3781 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3781
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3782 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3782 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3782
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3783 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3783 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3783
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3784 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3784 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3784
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3785 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3785 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3785
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3787 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3787 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3787
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3788 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3788 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3788
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3789 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3789 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3789
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3790 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3790 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3790
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3791 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3791 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3791
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3795 FANDUEL NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3795 FANDUEL NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3795
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3800 FOX SOCCER PLUS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3800 FOX SOCCER PLUS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3800
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3809 FOX DEPORTES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3809 FOX DEPORTES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3809
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3810 NLSE | PACIFIC LEAGUE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3810 NLSE | PACIFIC LEAGUE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3810
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3811 ESPN DEPORTES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3811 ESPN DEPORTES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3811
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3821 NBC SPORTS CALIFORNIA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3821 NBC SPORTS CALIFORNIA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3821
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3843 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3843 TNT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3843
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3844 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3844 TNT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3844
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3846 TRU TV
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3846 TRU TV
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3846
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3847 UNIVERSO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3847 UNIVERSO
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3848 USA NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3848 USA NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3848
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸3853 FOX DEPORTES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3853 FOX DEPORTES
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3853
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3864 SEC ESPN NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3864 SEC ESPN NETWORK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3864
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3865 SNY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3865 SNY
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3865
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3867 STADIUM ENCORE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3867 STADIUM ENCORE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3867
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸3868 STADIUM ENCORE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3868 STADIUM ENCORE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3868
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽SPORTSworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐", ##########  ♥ 03 ⚽SPORTSworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 03 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦77 GAME CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦77 GAME CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/77.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦127 NFL NETWORK CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦127 NFL NETWORK CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/127.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦128 BEIN SPORTS CANADA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦128 BEIN SPORTS CANADA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/128.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦130 MLB CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦130 MLB CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/130.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦131 NBC GOLF CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦131 NBC GOLF CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/131.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦132 FN CA | NBCsN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦132 FN CA | NBCsN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/132.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦133 TSN 1 CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦133 TSN 1 CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/133.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦134 TSN 2 CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦134 TSN 2 CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/134.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦135 TSN 3 CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦135 TSN 3 CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/135.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦136 TSN 4 CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦136 TSN 4 CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/136.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦137 TSN 5 CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦137 TSN 5 CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/137.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦138 SN CA | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦138 SN CA | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/138.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦140 TVA SPORTS CA-FR
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦140 TVA SPORTS CA-FR
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/140.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇨🇦141 TVA SPORTS 2 CA-FR
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦141 TVA SPORTS 2 CA-FR
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/141.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸325 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸325 TNT
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/325.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸334 TBS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸334 TBS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/334.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸335 TBS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸335 TBS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/335.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸339 E! | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸339 E! | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/339.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸342 USA NETWORK | OLYMPICS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸342 USA NETWORK | OLYMPICS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/342.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸378 YES NY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸378 YES NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/378.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸433 SEC ESPN NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸433 SEC ESPN NETWORK
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/433.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸434 MT | MOTOR TREND
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸434 MT | MOTOR TREND
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/434.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸442 ACCN ESPN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸442 ACCN ESPN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/442.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸443 R | RACER
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸443 R | RACER
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/443.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸446 GOLF NBC
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸446 GOLF NBC
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/446.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸451 MSG
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸451 MSG
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/451.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸452 B1G NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸452 B1G NETWORK
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/452.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸453 VSIN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸453 VSIN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/453.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸454 F | FISHING
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸454 F | FISHING
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/454.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸455 N | NESN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸455 N | NESN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/455.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸462 MY NETWORK
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸462 MY NETWORK
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/462.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸469 N | NESN
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸469 N | NESN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/469.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸563 LALIGA | por M+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸563 LALIGA | por M+
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/563.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸564 LIGA DE CAMPEONES | por M+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸564 LIGA DE CAMPEONES | por M+
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/564.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸581 CAZA Y PESCA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸581 CAZA Y PESCA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/581.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸595 EUROSPORT 1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸595 EUROSPORT 1
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/595.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸596 EUROSPORT 2
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸596 EUROSPORT 2
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/596.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸600 F. | FDF TELECINCO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸600 F. | FDF TELECINCO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/600.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸610 IBERALIA ORIGINAL
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸610 IBERALIA ORIGINAL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/610.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸628 DAZN | F1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸628 DAZN | F1
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/628.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸629 DEPORTES | por M+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸629 DEPORTES | por M+
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/629.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸682 TELEMUNDO 47 NY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸682 TELEMUNDO 47 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸685 TELEMUNDO 51 MI
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸685 TELEMUNDO 51 MI
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸686 TELEMUNDO 39 KANSAS CITY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸686 TELEMUNDO 39 KANSAS CITY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸687 TELEMUNDO 60
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸687 TELEMUNDO 60
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸692 TELEMUNDO 52 LA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸692 TELEMUNDO 52 LA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸694 TELEMUNDO LAS VEGAS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸694 TELEMUNDO LAS VEGAS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸725 UNIVISION LOS ANGELES
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸725 UNIVISION LOS ANGELES
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸726 UNIVISION CHICAGO
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸726 UNIVISION CHICAGO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸727 TUDN | UNIMAS
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸727 TUDN | UNIMAS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸729 UNIVISION 23 MI
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸729 UNIVISION 23 MI
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸730 UNIVISION 41 NY
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸730 UNIVISION 41 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸1024 SPACE
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1024 SPACE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1024.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸1078 TNT
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1078 TNT
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1078.ts
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇪🇸96388 GOL PERU
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸96388 GOL PERU
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96388.ts
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="⚽SPORTSworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽SPORTSworld🌐", ##########  ♥ 04 ⚽SPORTSworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 04 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTSworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id=“Fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
+#EXTINF:-1 tvg-id=“Fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
 http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:-1 tvg-id=“fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
+#EXTINF:-1 tvg-id=“fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
 http://185.189.225.149/fdf/index.m3u8
-#EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
+#EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
 http://185.189.225.150:85/GOLPLAY/index.m3u8
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
+#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
 http://185.189.225.149/GOLPLAY/index.m3u8
-#EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
+#EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
 http://185.189.225.150:85/Iberalia/index.m3u8
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
+#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
 http://185.189.225.149/iberalia/index.m3u8
-#EXTINF:-1 tvg-id=“mega.es" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
+#EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
 http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:-1 tvg-id=“mega.es" group-title="⚽SPORTSworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
+#EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
 http://185.189.225.149/mega/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² ESPN
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² ESPNU
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPNU
 http://41.205.93.154/ESPNU/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² ESPNNEWS 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPNNEWS 
 http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² TBS |E!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² TBS |E!
 http://41.205.93.154/TBS/index.m3u8
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ GSN | Game Show Network
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ GSN | Game Show Network
 https://streamer1.nexgen.bz/GSN/index.m3u8
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
 https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TBS |E!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TBS |E!
 https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TNT | NBA SPORTS
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TNT | NBA SPORTS
 https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
+#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ USA Network
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ USA Network
 https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ USA | SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ USA | SYFY
 https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
-#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² DISCOVERY_TURBO
+#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² DISCOVERY_TURBO
 http://vegafibratv.com:8085/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² OUTDOOR
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² OUTDOOR
 http://vegafibratv.com:8085/OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² TNT
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² TNT
 http://vegafibratv.com:8085/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² TRUTV
+#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² TRUTV
 http://vegafibratv.com:8085/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² TBS
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² TBS
 http://vegafibratv.com:8085/TBS/index.m3u8
-#EXTINF:-1 tvg-id=“USANetwork.us" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ² USA NETWORK
+#EXTINF:-1 tvg-id=“USANetwork.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² USA NETWORK
 http://vegafibratv.com:8085/USA/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-logo="" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ ACC_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ACC_NETWORK (opt1)
 http://143.244.60.30/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ BEIN_SPORTS (opt1)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ BEIN_SPORTS (opt1)
 http://143.244.60.30/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ BIG_TEN_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ BIG_TEN_NETWORK (opt1)
 http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ CBS_SPORTS_NETWORK West (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ CBS_SPORTS_NETWORK West (opt1)
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ ESPN_NEWS (opt1)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_NEWS (opt1)
 http://143.244.60.30/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ ESPN_2 (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_2 (opt1)
 http://143.244.60.30/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ ESPN_U (opt1)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_U (opt1)
 http://143.244.60.30/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TVG | FANDUEL TV (opt1)
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TVG | FANDUEL TV (opt1)
 http://143.244.60.30/TVG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ FS1 FOX_Sports_1 (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ FS1 FOX_Sports_1 (opt1)
 http://143.244.60.30/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ FS2 FOX_SPORTS_2 (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ FS2 FOX_SPORTS_2 (opt1)
 http://143.244.60.30/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ FOX_NEWS_CHANNEL (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ FOX_NEWS_CHANNEL (Opt-1)
 http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ GOLF CHANNEL (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ GOLF CHANNEL (opt1)
 http://143.244.60.30/GOLF/index.m3u8
-#EXTINF:-1 group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ LOVE_NATURE (opt1)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ LOVE_NATURE (opt1)
 http://143.244.60.30/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ LONGHORN_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ LONGHORN_NETWORK (opt1)
 http://143.244.60.30/LONGHORN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ MLB_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MLB_NETWORK (opt1)
 http://143.244.60.30/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ MARQUEE_SPORTS_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MARQUEE_SPORTS_NETWORK (opt1)
 http://143.244.60.30/MARQUEE_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1)
 http://143.244.60.30/MSG/index.m3u8
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ MAV_TV (opt1)
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MAV_TV (opt1)
 http://143.244.60.30/MAV_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ MOTOR_TREND (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MOTOR_TREND (opt1)
 http://143.244.60.30/MOTOR_TREND/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ NBA_TV (opt1)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NBA_TV (opt1)
 http://143.244.60.30/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ NFL_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NFL_NETWORK (opt1)
 http://143.244.60.30/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ NHL_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NHL_NETWORK (opt1)
 http://143.244.60.30/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (opt1)
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ OUTSIDE_TV (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUTSIDE_TV (opt1)
 http://143.244.60.30/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ STADIUM | Encore (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ STADIUM | Encore (opt1)
 http://143.244.60.30/STADIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TENNIS_CHANNEL (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TENNIS_CHANNEL (opt1)
 http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TSN_1 (opt1)
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_1 (opt1)
 http://143.244.60.30/TSN_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TSN_2 (opt1)
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_2 (opt1)
 http://143.244.60.30/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TSN_3 (opt1)
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_3 (opt1)
 http://143.244.60.30/TSN_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TSN_4 (opt1)
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_4 (opt1)
 http://143.244.60.30/TSN_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TSN_5 (opt2)
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_5 (opt2)
 http://143.244.60.30/TSN_5/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1)
 http://143.244.60.30/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TRU_TV |Reality (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TRU_TV |Reality (opt1)
 http://143.244.60.30/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ TBS |E! (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TBS |E! (opt1)
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ UFC (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ UFC (opt1)
 http://143.244.60.30/UFC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ USA_NETWORK |E! (Opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ USA_NETWORK |E! (Opt1)
 http://143.244.60.30/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (opt1)
 http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ WWE (opt1)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ WWE (opt1)
 http://143.244.60.30/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="⚽SPORTSworld🌐",🇺🇸Ⓜ¹ YES_NETWORK | MLS Apple TV (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ YES_NETWORK | MLS Apple TV (opt1)
 http://143.244.60.30/YES_NETWORK/index.m3u8
 
 
