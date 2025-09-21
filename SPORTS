@@ -192,10 +192,14 @@ http://fortv.cc:8080/Boobear/Boobear/57296
 http://fortv.cc:8080/Boobear/Boobear/57297
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57298 SN | SPORTSNET+ CA
 http://fortv.cc:8080/Boobear/Boobear/57298
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57299 SN | SPORTSNET+ CA
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57299 SN | SPORTSNET+ ufc CA
 http://fortv.cc:8080/Boobear/Boobear/57299
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦2219 SN | SPORTSNET+ ufc CA
+http://fortv.cc:8080/Boobear/Boobear/2219
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57300 SN | SPORTSNET CA
 http://fortv.cc:8080/Boobear/Boobear/57300
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57337 TVA SPORTS CA
+http://fortv.cc:8080/Boobear/Boobear/57337
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57362 GOLF Channel CA
 http://fortv.cc:8080/Boobear/Boobear/57362
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦57430 GAME SHOW NETWORK CA
@@ -214,6 +218,12 @@ http://fortv.cc:8080/Boobear/Boobear/57498
 http://fortv.cc:8080/Boobear/Boobear/57972
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇨🇦66372 ESPN
 http://fortv.cc:8080/Boobear/Boobear/66372
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸79544 RUSH SPORTS ON FLOW
 http://fortv.cc:8080/Boobear/Boobear/79544
@@ -484,6 +494,32 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3865
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3867
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸3868 STADIUM ENCORE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3868
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3875 TELEMUNDO 47 NY
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3876 TELEMUNDO CHICAGO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3878 TELEMUNDO 62 FILADELFIA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3879 TELEMUNDO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3880 TELEMUNDO 39 DALLAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3883 TELEMUNDO NVA INGLATERRA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3886 TELEMUNDO 40 TX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3889 TELEMUNDO 51 MIAMI
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
+
+
+
+
+
 
 
 
