@@ -2,10 +2,60 @@
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 01 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport megafull 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ TUDN MX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ TUDN MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ TUDN MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ AZTECA 7 MX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ AZTECA 7 MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ AZTECA 7 MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.7.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ WAPA+ PR (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/afizzionados.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ WAPA+ PR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/afizzionados.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ WAPA+ PR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionados.mx.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 02 📺IPTVsports⚽ ♥  ##########
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+
 
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸725 UNIVISION LOS ANGELES
@@ -48,17 +98,6 @@ http://fortv.cc:8080/Boobear/Boobear/120780
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 02 📺IPTVsports⚽ ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 02 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
-http://fortv.cc:8080/Boobear/Boobear/120780
 
 
 
@@ -68,7 +107,7 @@ http://fortv.cc:8080/Boobear/Boobear/120780
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 03 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  megafull 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -434,7 +473,7 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96388.ts
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 04 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
