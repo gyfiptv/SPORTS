@@ -56,52 +56,11 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://fortv.cc:8080/Boobear/Boobear/120780
 
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1401
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² TUDN ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1401
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN MX ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1400
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² TUDN MX ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1400
-
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN US ᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/1399
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² TUDN US ᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/1399
 
-
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS+ PLUS ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1195
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS+ PLUS ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1195
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SP0RTS 2 ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SP0RTS 2 ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
 
 
 
@@ -115,7 +74,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/4526
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² SKY SPORTS LaLiga ᴴᴰ LAT (CO)
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ La Liga TV BAR | por M+ ᴴᴰ (ES)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ La Liga TV BAR | por M+ ᴴᴰ (ES) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1679
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² La Liga TV BAR | por M+ ᴴᴰ (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1679
@@ -142,12 +101,12 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1680
 
 
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ ESPN DEPORTES ᴴᴰ
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ ESPN DEPORTES ᴴᴰ x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1385
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² ESPN DEPORTES ᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/1385
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1384
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² FOX Deportes ᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/1384
@@ -166,51 +125,10 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1683
 
 
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. GOLF | por M+ ᴴᴰ (ES)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1695
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² M. GOLF | por M+ ᴴᴰ (ES)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1695
-
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLF CHANNEL | por M+ ᴴᴰ (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1695
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² GOLF CHANNEL | por M+ ᴴᴰ (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1695
-
-
-
-
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS ᴴᴰ (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS ᴴᴰ (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SP0RTS 2 ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SP0RTS 2 ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ D1R3CTV SPORTS+ PLUS ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1195
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² D1R3CTV SPORTS+ PLUS ᴴᴰ
-http://disfruta.net:80/fpavas/raZFGMA7GT/1195
-
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",DAZN | Formula 1 ES (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1694
@@ -218,33 +136,16 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1694
 http://disfruta.net:80/fpavas/raZFGMA7GT/1694
 
 
-
-
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOL T (ES)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOL (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1677
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLF CHANNEL (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1904
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLF+ (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1903
+
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLPERU 
 http://disfruta.net:80/fpavas/raZFGMA7GT/1215
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLPERU FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4802
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1419
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV Español (US)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1422
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV FHD (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1213
+
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV HD (EC)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1214
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV LATINO
-http://disfruta.net:80/fpavas/raZFGMA7GT/1421
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ GOLTV SUR
-http://disfruta.net:80/fpavas/raZFGMA7GT/1420
-
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ SKY SPORTS LaLiga ᴴᴰ LAT (CO)
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
@@ -252,27 +153,27 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/4526
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ La Liga BAR FHD (ES)
-http://disfruta.net:80/ysastre/FLGZHWUSQR/1679
+http://disfruta.net:80/fpavas/raZFGMA7GT/1679
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ LALIGA TV BAR FHD (ES)
-http://disfruta.net:80/ysastre/FLGZHWUSQR/1680
+http://disfruta.net:80/fpavas/raZFGMA7GT/1680
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M La Liga FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1682
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. DEPORTES (ES)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. DEPORTES (ES) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1687
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. DEPORTES FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1683
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. Formula 1 FHD (ES)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. Formula 1 | DAZN FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1694
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. GOLF HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1695
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ M. Liga De Campeones FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1691
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ MOTORSPORTS (FR)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ MOTORSPORTS (FR) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1912
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ MOVISTAR GOLF (FR)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ MOVISTAR GOLF (FR) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1906
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1698
@@ -281,67 +182,32 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1699
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1701
 
-
-
-
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 
-
-
-
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Real Madrid Tv (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1702
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ RMC SPORT 1 (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1888
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ RMC SPORT 2 (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1889
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ RMC SPORT 3 (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1890
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ RMC SPORT 4 (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1891
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ RMC SPORT NEWS (FR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1892
-
-
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TOROS TV FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1707
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS FHD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2795
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS HD (AR)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS HD (AR) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/2796
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS | CDF FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1411
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS PREMIUM | CDF HD
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TNT SPORTS PREMIUM | CDF HD x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1412
-
-
-
-
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TIGO SPORTS HD (HN)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2619
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Tigo Sports HD 1 (BO)(solo eventos)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2677
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Tigo Sports HD 2 (BO)(solo eventos)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2678
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Tigo Sports HD 3 (BO)(solo eventos)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2679
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ Tigo Sports HD 4 (BO)(solo eventos)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2680
-
 
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TYC Sports HD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2797
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TVC Deportes (MX)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1175
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TVC Deportes FHD (MX)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TVC Deportes FHD (MX) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1916
 
 
@@ -351,40 +217,18 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1916
 http://disfruta.net:80/fpavas/raZFGMA7GT/1219
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN (MX)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1401
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN FHD
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN FHD x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1218
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN FHD (MX)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1400
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN HD (US)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1399
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA1
-http://disfruta.net:80/fpavas/raZFGMA7GT/1070
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA10
-http://disfruta.net:80/fpavas/raZFGMA7GT/1061
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA11
-http://disfruta.net:80/fpavas/raZFGMA7GT/1060
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA3
-http://disfruta.net:80/fpavas/raZFGMA7GT/1068
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA4
-http://disfruta.net:80/fpavas/raZFGMA7GT/1067
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA5
-http://disfruta.net:80/fpavas/raZFGMA7GT/1066
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA6
-http://disfruta.net:80/fpavas/raZFGMA7GT/1065
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA7
-http://disfruta.net:80/fpavas/raZFGMA7GT/1064
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA8
-http://disfruta.net:80/fpavas/raZFGMA7GT/1063
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TUDN XTRA9
-http://disfruta.net:80/fpavas/raZFGMA7GT/1062
 
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ VTV + HD (UY)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ VTV+ HD (UY)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1216
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ VTV HD (UY)
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ VTV+ HD (UY)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1217
-
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ WIN SPORTS
 http://disfruta.net:80/fpavas/raZFGMA7GT/1415
@@ -392,11 +236,8 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1415
 http://disfruta.net:80/fpavas/raZFGMA7GT/1416
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ WIN SPORTS PLUS FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1417
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ WIN SPORTS PLUS HD
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ CARACOL HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1418
-
-
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ SKY SPORTS LaLiga ᴴᴰ LAT (CO)
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
@@ -427,7 +268,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1691
 http://disfruta.net:80/fpavas/raZFGMA7GT/1680
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ² DAZN LALIGA ᴴᴰ (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1680
-
 
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ TELECINCO.5 ᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/1758
@@ -461,7 +301,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1804
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ES | Mega
 http://disfruta.net:80/fpavas/raZFGMA7GT/1760
 
-#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ES | MOVISTAR DAZN F1
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ES | MOVISTAR DAZN F1 x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1810
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸ᵀᵛ¹ES | ONETORO | TOROS
 http://disfruta.net:80/fpavas/raZFGMA7GT/1828
