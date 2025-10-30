@@ -627,6 +627,9 @@ http://mains.services:2086/4523074511/3178768/56129
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/56129
 
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐",☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67062
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐",☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
@@ -992,6 +995,18 @@ http://mains.vip:2086/3003556325/2772007/103890
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
 http://mains.services:2086/4523074511/3178768/103890
 
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt1) 
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt2) 
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/56129
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
 http://mains.services:2086/4523074511/3178768/100920
