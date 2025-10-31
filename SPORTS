@@ -1,557 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 01 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100920
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/101190
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
-http://mains.services:2086/4523074511/3178768/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/99440
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
-http://mains.services:2086/4523074511/3178768/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
-http://mains.vip:2086/3003556325/2772007/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/90642
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
-http://mains.services:2086/4523074511/3178768/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
-http://mains.vip:2086/3003556325/2772007/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/92717
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/56129
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE | SPANISH AUDIO (when available) (opt1) 
-http://mains.services:2086/4523074511/3178768/58106
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
-http://mains.services:2086/3003556325/2772007/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
-http://mains.services:2086/507Vej3h3S/4632273/67062
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
-http://mains.services:2086/3003556325/2772007/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
-http://mains.services:2086/507Vej3h3S/4632273/67063
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 02 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt3) 
-http://mains.services:2086/4523074511/3178768/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100885
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100886
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt2) 
-http://mains.vip:2086/3003556325/2772007/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt3) 
-http://mains.services:2086/4523074511/3178768/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100887
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100888
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100889
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100890
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100891
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt2)
-http://mains.vip:2086/3003556325/2772007/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt3)
-http://mains.services:2086/4523074511/3178768/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100892
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt2)
-http://mains.vip:2086/3003556325/2772007/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100893
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100894
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt2)
-http://mains.vip:2086/3003556325/2772007/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100895
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt2)
-http://mains.vip:2086/3003556325/2772007/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt3)
-http://mains.services:2086/4523074511/3178768/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100896
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt2)
-http://mains.vip:2086/3003556325/2772007/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt3)
-http://mains.services:2086/4523074511/3178768/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100897
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100898
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100899
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100900
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100901
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100902
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100903
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100904
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100905
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/101182
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/101182
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/101182
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56539
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56539
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56539
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56538
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56538
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56538
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56131
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56131
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56131
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56130
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56130
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56130
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/58107
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/58107
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/58107
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103878
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103878
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103878
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103879
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103879
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103879
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103880
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103880
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103880
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103881
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103881
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103881
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103882
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103882
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103882
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103883
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103883
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103883
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103884
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103884
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103884
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103885
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103886
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103887
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103888
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103889
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103890
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE | SPANISH AUDIO (when available) (opt1) 
-http://mains.services:2086/4523074511/3178768/58106
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt1) 
-http://mains.services:2086/4523074511/3178768/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt2) 
-http://mains.vip:2086/3003556325/2772007/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/56129
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100920
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/101190
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/102318
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt2) 
-http://mains.vip:2086/3003556325/2772007/102318
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt1)
-http://mains.vip:2086/6129666453/9260275/102318
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 03 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt1) 
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.extreme.eastern.us.m3u8
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.eastern.us.m3u8
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.west.us.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.eastern.us.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.west.us.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 01 📺IPTVsports⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
@@ -1430,6 +877,1480 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/28528.m3u8
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/28528.m3u8
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/28528.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 01   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 01 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100920
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
+http://mains.services:2086/4523074511/3178768/99440
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/99440
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/99440
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/99440
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
+http://mains.services:2086/4523074511/3178768/90642
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
+http://mains.vip:2086/3003556325/2772007/90642
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/90642
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/90642
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
+http://mains.services:2086/4523074511/3178768/92717
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
+http://mains.vip:2086/3003556325/2772007/92717
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92717
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/92717
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/56129
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/67062
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
+http://mains.services:2086/4523074511/3178768/67062
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
+http://mains.services:2086/3003556325/2772007/67062
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
+http://mains.services:2086/507Vej3h3S/4632273/67062
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/67063
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
+http://mains.services:2086/4523074511/3178768/67063
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
+http://mains.services:2086/3003556325/2772007/67063
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
+http://mains.services:2086/507Vej3h3S/4632273/67063
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 02   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 02 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100885
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100885
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt3) 
+http://mains.services:2086/4523074511/3178768/100885
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100885
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100886
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100886
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100886
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100886
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100887
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt2) 
+http://mains.vip:2086/3003556325/2772007/100887
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt3) 
+http://mains.services:2086/4523074511/3178768/100887
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100887
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100888
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100888
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100888
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100888
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100889
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100889
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100889
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100889
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100890
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100891
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100891
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100891
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100891
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100892
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt2)
+http://mains.vip:2086/3003556325/2772007/100892
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt3)
+http://mains.services:2086/4523074511/3178768/100892
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100892
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100893
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt2)
+http://mains.vip:2086/3003556325/2772007/100893
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt3)
+http://mains.services:2086/4523074511/3178768/100893
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100893
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100894
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100894
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100894
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100894
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100895
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt2)
+http://mains.vip:2086/3003556325/2772007/100895
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt3)
+http://mains.services:2086/4523074511/3178768/100895
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100895
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100896
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt2)
+http://mains.vip:2086/3003556325/2772007/100896
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt3)
+http://mains.services:2086/4523074511/3178768/100896
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100896
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100897
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt2)
+http://mains.vip:2086/3003556325/2772007/100897
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt3)
+http://mains.services:2086/4523074511/3178768/100897
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100897
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100898
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100898
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100898
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100898
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100899
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100899
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100899
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100899
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100900
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100900
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100900
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100900
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100901
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100901
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100901
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100901
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100902
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100902
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100902
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100902
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100903
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100903
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100903
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100903
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100904
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100904
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100904
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100904
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100905
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100905
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100905
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100905
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/101182
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/101182
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/101182
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56539
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56539
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56539
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56538
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56538
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56538
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56131
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56131
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56131
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56130
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56130
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56130
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/58107
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/58107
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/58107
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103878
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103878
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103878
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103879
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103879
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103879
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103880
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103880
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103880
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103881
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103881
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103881
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103882
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103882
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103882
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103883
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103883
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103883
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103884
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103884
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103884
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103885
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103885
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103885
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103886
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103886
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103886
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103887
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103887
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103887
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103888
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103888
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103888
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103889
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103889
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103889
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103890
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt1) 
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt2) 
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 90 - WWE (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/56129
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/100920
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100920
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101190
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/102318
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt2) 
+http://mains.vip:2086/3003556325/2772007/102318
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt1)
+http://mains.vip:2086/6129666453/9260275/102318
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 03   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 03 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt1) 
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.extreme.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.west.us.m3u8
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.eastern.us.m3u8
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.west.us.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 04   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 04 🇺🇸  ⭐🌎 NFL📺Football 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NETWORK FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64168
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL REDZONE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2913
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NETWORK (opt1)
+http://mains.services:2086/640939802963/IDC01478!/308
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL ARIZONA CARDINALS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/28515
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL ATLANTA FALCONS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/367
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL BALTIMORE RAVENS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55086
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL BUFFALO BILLS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55090
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL CAROLINA PANTHERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/365
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL CHICAGO BEARS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/359
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL CINCINNATI BENGALS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55089
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL CLEVELAND BROWNS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55078
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL DALLAS COWBOYS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/363
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL DENVER BRONCOS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55084
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL DETROIT LIONS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/358
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL GREEN BAY PACKERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/360
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL HOUSTON TEXANS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55091
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL INDIANAPOLIS COLTS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55076
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL JACKSONVILLE JAGUARS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55093
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL KANSAS CITY CHIEFS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55087
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL LAS VEGAS RAIDERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55083
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL LOS ANGELES CHARGERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55094
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL LOS ANGELES RAMS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/4754
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL MIAMI DOLPHINS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55085
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL MINNESOTA VIKINGS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/357
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NEW ENGLAND PATRIOTS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55080
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NEW ORLEANS SAINTS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/366
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NEW YORK GIANTS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/17395
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NEW YORK JETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55088
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL PHILADELPHIA EAGLES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/361
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL PITTSBURGH STEELERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55075
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL SAN FRANCISCO 49ERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/364
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL SEATTLE SEAHAWKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55077
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL TAMPA BAY BUCCANEERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/356
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL TENNESSEE TITANS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55092
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL WASHINGTON FOOTBALL TEAM (opt1)
+http://mains.services:2086/640939802963/IDC01478!/362
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 05   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 05 🇺🇸  ⭐🌎 NHL📺Hockey 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NETWORK (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95437
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NETWORK (opt2)
+http://mains.services:2086/4523074511/3178768/95437
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NETWORK (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/95437
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL ANAHEIM DUCKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55055
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL ARIZONA COYOTES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55054
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL BOSTON BRUINS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/415
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL BUFFALO SABRES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/414
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL CALGARY FLAMES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55053
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL CAROLINA HURRICANES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/416
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL CHICAGO BLACKHAWKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/3441
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL COLORADO AVALANCHE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/3994
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL COLUMBUS BLUE JACKETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/411
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL DALLAS STARS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/3995
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL DETROIT RED WINGS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/413
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL EDMONTON OILERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55052
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL FLORIDA PANTHERS
+http://mains.services:2086/640939802963/IDC01478!/13792
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL LOS ANGELES KINGS
+http://mains.services:2086/640939802963/IDC01478!/55051
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL MINNESOTA WILD
+http://mains.services:2086/640939802963/IDC01478!/3996
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL MONTREAL CANADIENS
+http://mains.services:2086/640939802963/IDC01478!/3118
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NASHVILLE PREDATORS
+http://mains.services:2086/640939802963/IDC01478!/36451
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ US : NHL NETWORK
+http://mains.services:2086/640939802963/IDC01478!/147
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NETWORK FHD 1080
+http://mains.services:2086/640939802963/IDC01478!/64084
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NEW JERSEY DEVILS
+http://mains.services:2086/640939802963/IDC01478!/410
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NEW YORK ISLANDERS
+http://mains.services:2086/640939802963/IDC01478!/409
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL NEW YORK RANGERS
+http://mains.services:2086/640939802963/IDC01478!/408
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL OTTAWA SENATORS
+http://mains.services:2086/640939802963/IDC01478!/3439
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL PHILADELPHIA FLYERS
+http://mains.services:2086/640939802963/IDC01478!/406
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL PITTSBURGH PENGUINS
+http://mains.services:2086/640939802963/IDC01478!/405
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL SAN JOSE SHARKS
+http://mains.services:2086/640939802963/IDC01478!/55050
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL SEATTLE KRAKEN
+http://mains.services:2086/640939802963/IDC01478!/102483
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL ST LOUIS BLUES
+http://mains.services:2086/640939802963/IDC01478!/55057
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL TAMPA BAY LIGHTNING
+http://mains.services:2086/640939802963/IDC01478!/3431
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL TORONTO MAPLE LEAFS
+http://mains.services:2086/640939802963/IDC01478!/3440
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL VANCOUVER CANUCKS
+http://mains.services:2086/640939802963/IDC01478!/55049
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL VEGAS GOLDEN KNIGHTS
+http://mains.services:2086/640939802963/IDC01478!/55048
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL WASHINGTON CAPITALS
+http://mains.services:2086/640939802963/IDC01478!/404
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NHL WINNIPEG JETS
+http://mains.services:2086/640939802963/IDC01478!/55056
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 06   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 06 🇺🇸  ⭐🌎 MLB📺Baseball 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NETWORK FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64091
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NETWORK FHD (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/64091
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NETWORK STRIKE ZONE | Tuesday and Friday nights only (opt1)
+http://mains.services:2086/640939802963/IDC01478!/14871
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NETWORK STRIKE ZONE | Tuesday and Friday nights only (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/14871
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50141
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
+http://mains.services:2086/4523074511/3178768/50141
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/50141
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ATLANTA BRAVES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50140
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ATLANTA BRAVES (opt2)
+http://mains.services:2086/4523074511/3178768/50140
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ATLANTA BRAVES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50140
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BALTIMORE ORIOLES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50139
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BALTIMORE ORIOLES (opt2)
+http://mains.services:2086/4523074511/3178768/50139
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BALTIMORE ORIOLES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50139
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BOSTON RED SOX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/98956
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BOSTON RED SOX (opt2)
+http://mains.services:2086/4523074511/3178768/98956
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB BOSTON RED SOX (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98956
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO CUBS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50137
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO CUBS (opt2)
+http://mains.services:2086/4523074511/3178768/50137
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO CUBS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50137
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO WHITE SOX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50136
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO WHITE SOX (opt2)
+http://mains.services:2086/4523074511/3178768/50136
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CHICAGO WHITE SOX (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50136
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CINCINNATI REDS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50135
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CINCINNATI REDS (opt2)
+http://mains.services:2086/4523074511/3178768/50135
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CINCINNATI REDS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50135
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CLEVELAND INDIANS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50134
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CLEVELAND INDIANS (opt2)
+http://mains.services:2086/4523074511/3178768/50134
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB CLEVELAND INDIANS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50134
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB COLORADO ROCKIES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50133
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB COLORADO ROCKIES (opt2)
+http://mains.services:2086/4523074511/3178768/50133
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB COLORADO ROCKIES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50133
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB DETROIT TIGERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50132
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB DETROIT TIGERS (opt2)
+http://mains.services:2086/4523074511/3178768/50132
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB DETROIT TIGERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50132
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB HOUSTON ASTROS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50131
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB HOUSTON ASTROS (opt2)
+http://mains.services:2086/4523074511/3178768/50131
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB HOUSTON ASTROS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50131
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB KANSAS CITY ROYALS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50130
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB KANSAS CITY ROYALS (opt2)
+http://mains.services:2086/4523074511/3178768/50130
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB KANSAS CITY ROYALS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50130
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES ANGELS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES ANGELS (opt2)
+http://mains.services:2086/4523074511/3178768/50129
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES ANGELS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50129
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES DODGERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50128
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES DODGERS (opt2)
+http://mains.services:2086/4523074511/3178768/50128
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB LOS ANGELES DODGERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50128
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MIAMI MARLINS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50127
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MIAMI MARLINS (opt2)
+http://mains.services:2086/4523074511/3178768/50127
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MIAMI MARLINS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50127
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MILWAUKEE BREWERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50126
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MILWAUKEE BREWERS (opt2)
+http://mains.services:2086/4523074511/3178768/50126
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MILWAUKEE BREWERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50126
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MINNESOTA TWINS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50125
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MINNESOTA TWINS (opt2)
+http://mains.services:2086/4523074511/3178768/50125
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB MINNESOTA TWINS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50125
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK METS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50124
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK METS (opt2)
+http://mains.services:2086/4523074511/3178768/50124
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK METS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50124
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK YANKEES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50123
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK YANKEES (opt2)
+http://mains.services:2086/4523074511/3178768/50123
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB NEW YORK YANKEES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50123
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB OAKLAND ATHLETICS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50122
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB OAKLAND ATHLETICS (opt2)
+http://mains.services:2086/4523074511/3178768/50122
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB OAKLAND ATHLETICS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50122
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PHILADELPHIA PHILLIES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50121
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PHILADELPHIA PHILLIES (opt2)
+http://mains.services:2086/4523074511/3178768/50121
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PHILADELPHIA PHILLIES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50121
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PITTSBURGH PIRATES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50120
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PITTSBURGH PIRATES (opt2)
+http://mains.services:2086/4523074511/3178768/50120
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB PITTSBURGH PIRATES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50120
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN DIEGO PADRES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50119
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN DIEGO PADRES (opt2)
+http://mains.services:2086/4523074511/3178768/50119
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN DIEGO PADRES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50119
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50118
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt2)
+http://mains.services:2086/4523074511/3178768/50118
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50118
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SEATTLE MARINERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50117
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SEATTLE MARINERS (opt2)
+http://mains.services:2086/4523074511/3178768/50117
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB SEATTLE MARINERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50117
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ST LOUIS CARDINALS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50116
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ST LOUIS CARDINALS (opt2)
+http://mains.services:2086/4523074511/3178768/50116
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB ST LOUIS CARDINALS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50116
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TAMPA BAY RAYS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50115
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TAMPA BAY RAYS (opt2)
+http://mains.services:2086/4523074511/3178768/50115
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TAMPA BAY RAYS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50115
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TEXAS RANGERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50114
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TEXAS RANGERS (opt2)
+http://mains.services:2086/4523074511/3178768/50114
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TEXAS RANGERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50114
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TORONTO BLUE JAYS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50113
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TORONTO BLUE JAYS (opt2)
+http://mains.services:2086/4523074511/3178768/50113
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB TORONTO BLUE JAYS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50113
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB WASHINGTON NATIONALS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/50112
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB WASHINGTON NATIONALS (opt2)
+http://mains.services:2086/4523074511/3178768/50112
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ MLB WASHINGTON NATIONALS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50112
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 07   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 07 🇺🇸  ⭐🌎 NBA📺Basketball 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/336
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/336
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64086
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV FHD (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/64086
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95440
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/95440
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ATLANTA HAWKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/375
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ATLANTA HAWKS (opt2)
+http://mains.services:2086/4523074511/3178768/375
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ATLANTA HAWKS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/375
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BOSTON CELTICS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/380
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BOSTON CELTICS (opt2)
+http://mains.services:2086/4523074511/3178768/380
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BOSTON CELTICS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/380
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BROOKLYN NETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/66873
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BROOKLYN NETS (opt2)
+http://mains.services:2086/4523074511/3178768/66873
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA BROOKLYN NETS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/66873
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHARLOTTE HORNETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/374
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHARLOTTE HORNETS (opt2)
+http://mains.services:2086/4523074511/3178768/374
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHARLOTTE HORNETS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/374
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHICAGO BULLS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/369
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHICAGO BULLS (opt2)
+http://mains.services:2086/4523074511/3178768/369
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CHICAGO BULLS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/369
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CLEVELAND CAVALIERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/379
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CLEVELAND CAVALIERS (opt2)
+http://mains.services:2086/4523074511/3178768/379
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA CLEVELAND CAVALIERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/379
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DALLAS MAVERICKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55035
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DALLAS MAVERICKS (opt2)
+http://mains.services:2086/4523074511/3178768/55035
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DALLAS MAVERICKS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55035
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DENVER NUGGETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2893
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DENVER NUGGETS (opt2)
+http://mains.services:2086/4523074511/3178768/2893
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DENVER NUGGETS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2893
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DETROIT PISTONS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/378
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DETROIT PISTONS (opt2)
+http://mains.services:2086/4523074511/3178768/378
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA DETROIT PISTONS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/378
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA GOLDEN STATE WARRIORS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55030
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA GOLDEN STATE WARRIORS (opt2)
+http://mains.services:2086/4523074511/3178768/55030
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA GOLDEN STATE WARRIORS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55030
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA HOUSTON ROCKETS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55036
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA HOUSTON ROCKETS (opt2)
+http://mains.services:2086/4523074511/3178768/55036
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA HOUSTON ROCKETS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55036
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA INDIANA PACERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/377
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA INDIANA PACERS (opt2)
+http://mains.services:2086/4523074511/3178768/377
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA INDIANA PACERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/377
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES CLIPPERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55031
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES CLIPPERS (opt2)
+http://mains.services:2086/4523074511/3178768/55031
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES CLIPPERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55031
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES LAKERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55032
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES LAKERS (opt2)
+http://mains.services:2086/4523074511/3178768/55032
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA LOS ANGELES LAKERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55032
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MEMPHIS GRIZZLIES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55037
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MEMPHIS GRIZZLIES (opt2)
+http://mains.services:2086/4523074511/3178768/55037
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MEMPHIS GRIZZLIES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55037
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MIAMI HEAT (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2896
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MIAMI HEAT (opt2)
+http://mains.services:2086/4523074511/3178768/2896
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MIAMI HEAT (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2896
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MILWAUKEE BUCKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/376
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MILWAUKEE BUCKS (opt2)
+http://mains.services:2086/4523074511/3178768/376
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MILWAUKEE BUCKS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/376
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MINNESOTA TIMBERWOLVES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2892
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MINNESOTA TIMBERWOLVES (opt2)
+http://mains.services:2086/4523074511/3178768/2892
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA MINNESOTA TIMBERWOLVES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2892
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW ORLEANS PELICANS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55038
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW ORLEANS PELICANS (opt2)
+http://mains.services:2086/4523074511/3178768/55038
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW ORLEANS PELICANS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55038
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW YORK KNICKS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/372
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW YORK KNICKS (opt2)
+http://mains.services:2086/4523074511/3178768/372
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA NEW YORK KNICKS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/372
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA OKLAHOMA CITY THUNDER (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2891
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA OKLAHOMA CITY THUNDER (opt2)
+http://mains.services:2086/4523074511/3178768/2891
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA OKLAHOMA CITY THUNDER (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2891
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ORLANDO MAGIC (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2895
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ORLANDO MAGIC (opt2)
+http://mains.services:2086/4523074511/3178768/2895
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA ORLANDO MAGIC (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2895
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHILADELPHIA 76ERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/371
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHILADELPHIA 76ERS (opt2)
+http://mains.services:2086/4523074511/3178768/371
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHILADELPHIA 76ERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/371
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHOENIX SUNS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55033
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHOENIX SUNS (opt2)
+http://mains.services:2086/4523074511/3178768/55033
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PHOENIX SUNS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55033
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PORTLAND TRAIL BLAZERS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PORTLAND TRAIL BLAZERS (opt2)
+http://mains.services:2086/4523074511/3178768/2890
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA PORTLAND TRAIL BLAZERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2890
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SACRAMENTO KINGS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55034
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SACRAMENTO KINGS (opt2)
+http://mains.services:2086/4523074511/3178768/55034
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SACRAMENTO KINGS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55034
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SAN ANTONIO SPURS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55039
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SAN ANTONIO SPURS (opt2)
+http://mains.services:2086/4523074511/3178768/55039
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA SAN ANTONIO SPURS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55039
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TORONTO RAPTORS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/370
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TORONTO RAPTORS (opt2)
+http://mains.services:2086/4523074511/3178768/370
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TORONTO RAPTORS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/370
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA UTAH JAZZ (opt1)
+http://mains.vip:2086/6129666453/9260275/55019
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA UTAH JAZZ (opt2)
+http://mains.services:2086/4523074511/3178768/55019
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA UTAH JAZZ (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/55019
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA WASHINGTON WIZARDS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/2894
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA WASHINGTON WIZARDS (opt2)
+http://mains.services:2086/4523074511/3178768/2894
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA WASHINGTON WIZARDS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/2894
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 08   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 08 🇺🇸  ⭐🌎 NBA📺Basketball 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA TV US (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.tv.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA TV US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.tv.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA TV CO (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.tv.co.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA TV CO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.tv.co.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | atlanta.hawks.us | Sling (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.atlanta.hawks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | atlanta.hawks.us | Sling (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.atlanta.hawks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | atlanta.hawks.us | Sling (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.atlanta.hawks.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | boston.celtics.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.boston.celtics.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | boston.celtics.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.boston.celtics.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | boston.celtics.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.boston.celtics.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | brooklyn.nets.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.brooklyn.nets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | brooklyn.nets.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.brooklyn.nets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | brooklyn.nets.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.brooklyn.nets.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | charlotte.hornets.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.charlotte.hornets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | charlotte.hornets.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.charlotte.hornets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | charlotte.hornets.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.charlotte.hornets.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | chicago.bulls.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.chicago.bulls.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | chicago.bulls.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.chicago.bulls.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | chicago.bulls.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.chicago.bulls.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | cleveland.cavaliers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.cleveland.cavaliers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | cleveland.cavaliers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.cleveland.cavaliers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | cleveland.cavaliers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.cleveland.cavaliers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | dallas.mavericks.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.dallas.mavericks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | dallas.mavericks.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.dallas.mavericks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | dallas.mavericks.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.dallas.mavericks.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | denver.nuggets.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.denver.nuggets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | denver.nuggets.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.denver.nuggets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | denver.nuggets.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.denver.nuggets.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | detroit.pistons.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.detroit.pistons.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | detroit.pistons.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.detroit.pistons.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | detroit.pistons.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.detroit.pistons.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | golden.state.warriors.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.golden.state.warriors.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | golden.state.warriors.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.golden.state.warriors.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | golden.state.warriors.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.golden.state.warriors.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | houston.rockets.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.houston.rockets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | houston.rockets.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.houston.rockets.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | houston.rockets.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.houston.rockets.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | indiana.pacers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.indiana.pacers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | indiana.pacers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.indiana.pacers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | indiana.pacers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.indiana.pacers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.clippers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.los.angeles.clippers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.clippers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.los.angeles.clippers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.clippers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.los.angeles.clippers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.lakers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.los.angeles.lakers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.lakers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.los.angeles.lakers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | los.angeles.lakers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.los.angeles.lakers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | memphis.grizzlies.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.memphis.grizzlies.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | memphis.grizzlies.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.memphis.grizzlies.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | memphis.grizzlies.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.memphis.grizzlies.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | miami.heat.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.miami.heat.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | miami.heat.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.miami.heat.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | miami.heat.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.miami.heat.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | milwaukee.bucks.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.milwaukee.bucks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | milwaukee.bucks.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.milwaukee.bucks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | milwaukee.bucks.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.milwaukee.bucks.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | minnesota.timberwolves.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.minnesota.timberwolves.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | minnesota.timberwolves.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.minnesota.timberwolves.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | minnesota.timberwolves.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.minnesota.timberwolves.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.orleans.pelicans.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.new.orleans.pelicans.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.orleans.pelicans.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.new.orleans.pelicans.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.orleans.pelicans.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.new.orleans.pelicans.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.york.knicks.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.new.york.knicks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.york.knicks.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.new.york.knicks.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | new.york.knicks.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.new.york.knicks.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | oklahoma.city.thunder.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.oklahoma.city.thunder.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | oklahoma.city.thunder.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.oklahoma.city.thunder.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | oklahoma.city.thunder.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.oklahoma.city.thunder.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | orlando.magic.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.orlando.magic.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | orlando.magic.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.orlando.magic.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | orlando.magic.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.orlando.magic.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | philadelphia.76ers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.philadelphia.76ers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | philadelphia.76ers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.philadelphia.76ers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | philadelphia.76ers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.philadelphia.76ers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | phoenix.suns.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.phoenix.suns.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | phoenix.suns.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.phoenix.suns.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | phoenix.suns.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.phoenix.suns.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | portland.trail.blazers.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.portland.trail.blazers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | portland.trail.blazers.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.portland.trail.blazers.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | portland.trail.blazers.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.portland.trail.blazers.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | sacramento.kings.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.sacramento.kings.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | sacramento.kings.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.sacramento.kings.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | sacramento.kings.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.sacramento.kings.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | san.antonio.spurs.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.san.antonio.spurs.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | san.antonio.spurs.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.san.antonio.spurs.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | san.antonio.spurs.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.san.antonio.spurs.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | toronto.raptors.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.toronto.raptors.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | toronto.raptors.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.toronto.raptors.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | toronto.raptors.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.toronto.raptors.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | utah.jazz.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.utah.jazz.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | utah.jazz.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.utah.jazz.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | utah.jazz.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.utah.jazz.us.m3u8
+
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | washington.wizards.us | Sling (1080)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/nba.washington.wizards.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | washington.wizards.us | Sling (1080)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.washington.wizards.us.m3u8
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸⚽ NBA League Pass | washington.wizards.us | Sling (1080)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nba.washington.wizards.us.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
