@@ -1,4 +1,557 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 01 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100920
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
+http://mains.services:2086/4523074511/3178768/99440
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/99440
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/99440
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/99440
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
+http://mains.services:2086/4523074511/3178768/90642
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
+http://mains.vip:2086/3003556325/2772007/90642
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/90642
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/90642
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
+http://mains.services:2086/4523074511/3178768/92717
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
+http://mains.vip:2086/3003556325/2772007/92717
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92717
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/92717
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/56129
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/67062
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
+http://mains.services:2086/4523074511/3178768/67062
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
+http://mains.services:2086/3003556325/2772007/67062
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
+http://mains.services:2086/507Vej3h3S/4632273/67062
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/67063
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
+http://mains.services:2086/4523074511/3178768/67063
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
+http://mains.services:2086/3003556325/2772007/67063
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
+http://mains.services:2086/507Vej3h3S/4632273/67063
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 02 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100885
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100885
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt3) 
+http://mains.services:2086/4523074511/3178768/100885
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100885
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100886
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100886
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100886
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100886
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt1)  
+http://mains.services:2086/640939802963/IDC01478!/100887
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt2) 
+http://mains.vip:2086/3003556325/2772007/100887
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt3) 
+http://mains.services:2086/4523074511/3178768/100887
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100887
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100888
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100888
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100888
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100888
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100889
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100889
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100889
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100889
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100890
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100890
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100890
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100890
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100891
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100891
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100891
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100891
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100892
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt2)
+http://mains.vip:2086/3003556325/2772007/100892
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt3)
+http://mains.services:2086/4523074511/3178768/100892
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100892
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100893
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt2)
+http://mains.vip:2086/3003556325/2772007/100893
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt3)
+http://mains.services:2086/4523074511/3178768/100893
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100893
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100894
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt2)
+http://mains.vip:2086/3003556325/2772007/100894
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt3)
+http://mains.services:2086/4523074511/3178768/100894
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100894
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100895
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt2)
+http://mains.vip:2086/3003556325/2772007/100895
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt3)
+http://mains.services:2086/4523074511/3178768/100895
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100895
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100896
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt2)
+http://mains.vip:2086/3003556325/2772007/100896
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt3)
+http://mains.services:2086/4523074511/3178768/100896
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100896
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100897
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt2)
+http://mains.vip:2086/3003556325/2772007/100897
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt3)
+http://mains.services:2086/4523074511/3178768/100897
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100897
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100898
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100898
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100898
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100898
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100899
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100899
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100899
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100899
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100900
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100900
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100900
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100900
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100901
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100901
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100901
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100901
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100902
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100902
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100902
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100902
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100903
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100903
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100903
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100903
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100904
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100904
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100904
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100904
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/100905
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/100905
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/100905
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/100905
+
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/101182
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/101182
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/101182
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56539
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56539
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56539
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56538
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56538
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56538
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56131
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56131
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56131
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56130
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56130
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56130
+
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/58107
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/58107
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/58107
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103878
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103878
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103878
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103879
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103879
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103879
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103880
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103880
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103880
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103881
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103881
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103881
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103882
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103882
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103882
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103883
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103883
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103883
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103884
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103884
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103884
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103885
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103885
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103885
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103886
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103886
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103886
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103887
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103887
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103887
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103888
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103888
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103888
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103889
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103889
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103889
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/103890
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/103890
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/103890
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE | SPANISH AUDIO (when available) (opt1) 
+http://mains.services:2086/4523074511/3178768/58106
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt1) 
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt2) 
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/56129
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/100920
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100920
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101190
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/102318
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt2) 
+http://mains.vip:2086/3003556325/2772007/102318
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt1)
+http://mains.vip:2086/6129666453/9260275/102318
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 03 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt1) 
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.extreme.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.west.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.eastern.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt1)
+https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.west.us.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 01 📺IPTVsports⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
@@ -877,554 +1430,6 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/28528.m3u8
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/28528.m3u8
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/28528.m3u8
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 01 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100920
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/101190
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
-http://mains.services:2086/4523074511/3178768/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/99440
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/99440
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
-http://mains.services:2086/4523074511/3178768/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
-http://mains.vip:2086/3003556325/2772007/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/90642
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/90642
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
-http://mains.services:2086/4523074511/3178768/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
-http://mains.vip:2086/3003556325/2772007/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/92717
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/92717
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/56129
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - WWE | SPANISH AUDIO (when available) (opt1) 
-http://mains.services:2086/4523074511/3178768/58106
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
-http://mains.services:2086/3003556325/2772007/67062
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 07 | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
-http://mains.services:2086/507Vej3h3S/4632273/67062
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
-http://mains.services:2086/3003556325/2772007/67063
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,☆ PPV 08 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
-http://mains.services:2086/507Vej3h3S/4632273/67063
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 02 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt3) 
-http://mains.services:2086/4523074511/3178768/100885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100885
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100886
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt1)  
-http://mains.services:2086/640939802963/IDC01478!/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt2) 
-http://mains.vip:2086/3003556325/2772007/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt3) 
-http://mains.services:2086/4523074511/3178768/100887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100887
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100888
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100889
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100890
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100891
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100891
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt2)
-http://mains.vip:2086/3003556325/2772007/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt3)
-http://mains.services:2086/4523074511/3178768/100892
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100892
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt2)
-http://mains.vip:2086/3003556325/2772007/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100893
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100893
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt2)
-http://mains.vip:2086/3003556325/2772007/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100894
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100894
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt2)
-http://mains.vip:2086/3003556325/2772007/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100895
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100895
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt2)
-http://mains.vip:2086/3003556325/2772007/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt3)
-http://mains.services:2086/4523074511/3178768/100896
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100896
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt2)
-http://mains.vip:2086/3003556325/2772007/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt3)
-http://mains.services:2086/4523074511/3178768/100897
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 13 - UFC|FN (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100897
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100898
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100898
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100899
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100899
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100900
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100900
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100901
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100901
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100902
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100902
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100903
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100903
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100904
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100904
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100905
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/100905
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/101182
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/101182
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/101182
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56539
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56539
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56539
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56538
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56538
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56538
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56131
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56131
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56131
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56130
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56130
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56130
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/58107
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/58107
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/58107
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103878
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103878
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103878
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103879
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103879
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103879
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103880
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103880
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103880
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103881
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103881
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103881
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103882
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103882
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103882
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103883
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103883
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103883
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103884
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103884
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103884
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103885
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103885
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103886
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103886
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103887
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103887
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103888
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103888
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103889
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103889
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/103890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/103890
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103890
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE | SPANISH AUDIO (when available) (opt1) 
-http://mains.services:2086/4523074511/3178768/58106
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt1) 
-http://mains.services:2086/4523074511/3178768/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt2) 
-http://mains.vip:2086/3003556325/2772007/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/56129
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 90 - WWE (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/56129
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/100920
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 97 - FITE 24/7 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100920
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/101190
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/101190
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/102318
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt2) 
-http://mains.vip:2086/3003556325/2772007/102318
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt1)
-http://mains.vip:2086/6129666453/9260275/102318
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTV🥊Pay-Per-View🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTV🥊Pay-Per-View🌐”, ##########  ♥ GROUP 03 📺IPTV🥊Pay-Per-View🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTV🥊Pay-Per-View🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt1) 
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EXTREME | PBC BOXING🥊 PAY-PER-VIEW (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.extreme.eastern.us.m3u8
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME EAST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.eastern.us.m3u8
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ SHOWTIME WEST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.west.us.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO EAST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.eastern.us.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt1)
-https://tvnow.best/api/stream/dmorrone@mac.com/548684/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺IPTV🥊Pay-Per-View🌐”,🇺🇸⚽ HBO WEST | PBC BOXING🥊 PPV (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.west.us.m3u8
-
 
 
 
