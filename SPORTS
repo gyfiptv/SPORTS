@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 01 📺IPTVsports⚽ ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -887,26 +887,14 @@ http://latinchannel.tv:8080/live/SNM25112/UJO847/28528.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 01 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 01 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - FITE 24/7 (opt1) 
 http://mains.services:2086/4523074511/3178768/100920
@@ -988,13 +976,14 @@ http://mains.services:2086/507Vej3h3S/4632273/67063
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 02 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 02 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt1)  
@@ -1375,13 +1364,15 @@ http://mains.vip:2086/6129666453/9260275/102318
 
 
 
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 03 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTM3U
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 03 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇪🇸⚽ SPACE AR | PBC BOXING🥊 PPV (opt1) 
@@ -1445,14 +1436,13 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.w
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 04 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 04 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 04 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 04 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NFL NETWORK FHD (opt1)
@@ -1536,14 +1526,13 @@ http://mains.services:2086/640939802963/IDC01478!/362
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 05 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 05 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 
 
@@ -1633,14 +1622,13 @@ http://mains.services:2086/640939802963/IDC01478!/55056
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 06 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 06 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 
 
@@ -1870,14 +1858,13 @@ http://mains.services:2086/507Vej3h3S/4632273/50112
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 07 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 07 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 07 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 07 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,🇺🇸☆ NBA TV (opt1)
@@ -2112,12 +2099,12 @@ http://mains.services:2086/507Vej3h3S/4632273/2894
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="🥊PAY-PER-VIEW🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 08 🥊PAY-PER-VIEW🌐 ♥  ##########
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”, ##########  ♥ GROUP 08 🥊PAY-PER-VIEW🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 08 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 08 🇺🇸  🌐🌎⭐ 🥊PAY-PER-VIEW🌐 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 group-title="🥊PAY-PER-VIEW🌐”,✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
