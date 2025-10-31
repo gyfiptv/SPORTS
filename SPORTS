@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 01 📺IPTVsports⚽ ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 01 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -35,8 +35,12 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/afizzionado
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ WAPA+ PR (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionados.mx.m3u8
 
-
-
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mega.es.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.es.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸⚽ MEGA A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3u8
 
 
 
@@ -44,12 +48,12 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionad
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 02 📺IPTVsports⚽ ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 02 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽",🇪🇸120780 D1R3CTV
@@ -327,12 +331,12 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1828
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 03 📺IPTVsports⚽ ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 03 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  megafull 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
@@ -496,31 +500,14 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2730
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ 04 📺IPTVsports⚽ ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 04 📺IPTVsports⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 04 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv.cc:8080 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id=“Fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
-http://185.189.225.149/fdf/index.m3u8
-#EXTINF:-1 tvg-id=“fdf.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
-http://185.189.225.149/fdf/index.m3u8
-#EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
-http://185.189.225.149/GOLPLAY/index.m3u8
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
-http://185.189.225.149/GOLPLAY/index.m3u8
-#EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
-http://185.189.225.149/Iberalia/index.m3u8
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
-http://185.189.225.149/iberalia/index.m3u8
-#EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
-http://185.189.225.149/mega/index.m3u8
-#EXTINF:-1 tvg-id=“mega.es" group-title="📺IPTVsports⚽",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
-http://185.189.225.149/mega/index.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ² ESPN
@@ -549,6 +536,354 @@ https://streamer1.nexgen.bz/USA/index.m3u8
 https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 05 📺IPTVsports⚽ ♥  ##########
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸91 ESPN (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/91.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸91 ESPN (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/91.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸91 ESPN (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/91.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸92 ESPN 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/92.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸92 ESPN 2 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/92.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸92 ESPN 2 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/92.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸93 ESPN 3 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/93.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸93 ESPN 3 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/93.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸93 ESPN 3 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/93.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸94 FOX SPORTS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/94.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸94 FOX SPORTS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/94.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸94 FOX SPORTS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/94.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸95 FOX SPORTS 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/95.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸95 FOX SPORTS 2 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/95.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸95 FOX SPORTS 2 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/95.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸96 PX SPORTS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/96.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸96 PX SPORTS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/96.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸96 PX SPORTS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/96.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸97 AYM (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/97.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸97 AYM (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/97.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸97 AYM (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/97.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸110 ESPN 4 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/110.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸110 ESPN 4 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/110.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸110 ESPN 4 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/110.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸118 FOX SPORTS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/118.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸118 FOX SPORTS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/118.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸118 FOX SPORTS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/118.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸119 ESPN (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/119.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸119 ESPN (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/119.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸119 ESPN (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/119.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸151 FOX SPORTS 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/151.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸151 FOX SPORTS 2 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/151.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸151 FOX SPORTS 2 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/151.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸152 ESPN 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/152.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸152 ESPN 2 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/152.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸152 ESPN 2 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/152.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸165 XFL ADRENALINA SPORTS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/165.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸165 XFL ADRENALINA SPORTS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/165.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸165 XFL ADRENALINA SPORTS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/165.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸166 BT SPORTS 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/166.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸174 BT SPORTS 1 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/174.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸180 MOVISTAR GOLF M+ (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/180.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸204 BOX NATION (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/204.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸215 NFL NETWORK (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/215.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸215 NFL NETWORK (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/215.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸215 NFL NETWORK (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/215.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸234 ESPN U (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/234.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸234 ESPN U (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/234.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸234 ESPN U (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/234.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸440 MOVISTAR GOLF (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/440.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸440 MOVISTAR GOLF (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/440.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸440 MOVISTAR GOLF (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/440.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸488 GOL PERU PE (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/488.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸488 GOL PERU PE (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/488.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸488 GOL PERU PE (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/488.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸494 VTV PLUS UY (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/494.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸494 VTV PLUS UY (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/494.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸494 VTV PLUS UY (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/494.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18758.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/18758.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/18758.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1017 DIRECTV SPORTS AR (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1017.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1017 DIRECTV SPORTS AR (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1017.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1017 DIRECTV SPORTS AR (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1017.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1027 DEPORTV AR (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1027.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1027 DEPORTV AR (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1027.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1027 DEPORTV AR (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1027.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1035 RCN CO (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1035.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1035 RCN CO (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1035.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1035 RCN CO (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1035.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1036 WIN SPORTS + CO (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1036.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1036 WIN SPORTS + CO (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1036.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1036 WIN SPORTS + CO (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1036.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1037 RCN INTERNACIONAL CO (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1037.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1037 RCN INTERNACIONAL CO (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1037.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1037 RCN INTERNACIONAL CO (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1037.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1038 CARACOL CO (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1038.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1038 CARACOL CO (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1038.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1038 CARACOL CO (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1038.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1039 CARACOL INTERNACIONAL CO (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1039.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1039 CARACOL INTERNACIONAL CO (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1039.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1039 CARACOL INTERNACIONAL CO (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1039.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1064 FDF FACTORIA DE FICCION ES (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1064.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1064 FDF FACTORIA DE FICCION ES (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1064.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1064 FDF FACTORIA DE FICCION ES (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1064.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1790 TyC Sports AR (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1790.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1790 TyC Sports AR (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/1790.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸1790 TyC Sports AR (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/1790.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2843 LIGA NOS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2843.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2844 FOX DEPORTES (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2844.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2844 FOX DEPORTES (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2844.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2844 FOX DEPORTES (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2844.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2848 GOL TV (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2848.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2848 GOL TV (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2848.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2848 GOL TV (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2848.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2858 ESPN AR (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2858.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2858 ESPN AR (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2858.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2858 ESPN AR (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2858.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2860 ESPN 3 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2860.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2860 ESPN 3 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2860.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2860 ESPN 3 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2860.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2863 DIRECTV SPORTS 2 (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2863.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2863 DIRECTV SPORTS 2 (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2863.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸2863 DIRECTV SPORTS 2 (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2863.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸4561 SKY SPORTS GOLF (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/4561.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸4561 SKY SPORTS GOLF (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/4561.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸4561 SKY SPORTS GOLF (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/4561.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸4566 CLARO SPORTS MX (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/4566.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸4566 CLARO SPORTS MX (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/4566.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸4566 CLARO SPORTS MX (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/4566.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9562 YES NETWORK (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9562.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9562 YES NETWORK (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/9562.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸9562 YES NETWORK (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/9562.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸12770 TENNIS TV (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12770.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸12770 TENNIS TV (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/12770.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸12770 TENNIS TV (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/12770.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14641 ADRENALINA SPORTS NETWORK (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/14641.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14641 ADRENALINA SPORTS NETWORK (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/14641.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14641 ADRENALINA SPORTS NETWORK (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/14641.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14642 TUDN MX (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/14642.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14642 TUDN MX (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/14642.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸14642 TUDN MX (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/14642.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18758.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/18758.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18758 VTV PLUS UY (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/18758.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18865 GOL TV (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18865.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18865 GOL TV (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/18865.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸18865 GOL TV (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/18865.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19190 GOL ESPANA (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19190.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19190 GOL ESPANA (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/19190.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19190 GOL ESPANA (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/19190.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19288.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/19288.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/19288.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19289 TNT SPORTS PREMIUM (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19289.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19289 TNT SPORTS PREMIUM (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19289.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸19289 TNT SPORTS PREMIUM (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/19289.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28527 FUBO SPORTS NETWORK (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/28527.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28527 FUBO SPORTS NETWORK (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/28527.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28527 FUBO SPORTS NETWORK (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/28527.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/28528.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/28528.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/28528.m3u8
+
+
+
 
 
 
@@ -564,7 +899,7 @@ https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐”,GROUP 01   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐",GROUP 01   ▂ ▄ ▅ ▆ 🤼‍♀️  🇺🇸PAY-PER-VIEW🇺🇸  🤼‍♀️ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊PAY-PER-VIEW🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 PPV 01 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
