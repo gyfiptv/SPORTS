@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 01 📺IPTVsports⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -51,7 +51,7 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3
 #EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 02 📺IPTVsports⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -516,6 +516,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://41.205.93.154/TBS/index.m3u8
 
 
+
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ GSN | Game Show Network
 https://streamer1.nexgen.bz/GSN/index.m3u8
 #EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
@@ -530,6 +531,30 @@ https://streamer1.nexgen.bz/TRUTV/index.m3u8
 https://streamer1.nexgen.bz/USA/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ USA | SYFY
 https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0re ESPN Latino
+http://38.183.182.166:8000/play/a0re/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0vl ESPN 4 Latino
+http://38.183.182.166:8000/play/a0vl/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0vv TNT SPORTS PREMIUM CL Latino
+http://38.183.182.166:8000/play/a0vv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0vw ESPN 2 Latino
+http://38.183.182.166:8000/play/a0vw/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0xa CREO SPORT PE Latino
+http://38.183.182.166:8000/play/a0xa/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0xb TE QUIERO TV | CREO TV PE Latino
+http://38.183.182.166:8000/play/a0xb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇪🇸a0xd GOL PERU PE Latino
+http://38.183.182.166:8000/play/a0xd/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTM3U
@@ -877,6 +902,108 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/28528.m3u8
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/28528.m3u8
 #EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸28528 TRACE SPORT*STARS (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/28528.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 06 📺IPTVsports⚽ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  143.244. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-logo="" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ACC_NETWORK (opt1)
+http://143.244.60.30/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ BEIN_SPORTS (opt1)
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ BIG_TEN_NETWORK (opt1)
+http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ CBS_SPORTS_NETWORK West (opt1)
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_NEWS (opt1)
+http://143.244.60.30/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_2 (opt1)
+http://143.244.60.30/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ ESPN_U (opt1)
+http://143.244.60.30/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TVG | FANDUEL TV (opt1)
+http://143.244.60.30/TVG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ FS1 FOX_Sports_1 (opt1)
+http://143.244.60.30/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ FS2 FOX_SPORTS_2 (opt1)
+http://143.244.60.30/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ GOLF CHANNEL (opt1)
+http://143.244.60.30/GOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Longhorn-Network-Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ LONGHORN_NETWORK (opt1)
+http://143.244.60.30/LONGHORN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MLB_NETWORK (opt1)
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MARQUEE_SPORTS_NETWORK (opt1)
+http://143.244.60.30/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1)
+http://143.244.60.30/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xi7zHol.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MSNBC |News (opt1)
+http://143.244.60.30/MSNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MAV_TV (opt1)
+http://143.244.60.30/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ MOTOR_TREND (opt1)
+http://143.244.60.30/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NBA_TV (opt1)
+http://143.244.60.30/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NFL_NETWORK (opt1)
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhl-network-logo-2EFD933751-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ NHL_NETWORK (opt1)
+http://143.244.60.30/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (opt1)
+http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ OUTSIDE_TV (opt1)
+http://143.244.60.30/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ STADIUM | Encore (opt1)
+http://143.244.60.30/STADIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TENNIS_CHANNEL (opt1)
+http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_1 (opt1)
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_2 (opt1)
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_3 (opt1)
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_4 (opt1)
+http://143.244.60.30/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_tsn-200x200.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TSN_5 (opt2)
+http://143.244.60.30/TSN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1)
+http://143.244.60.30/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ TRU_TV |Reality (opt1)
+http://143.244.60.30/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ UFC (opt1)
+http://143.244.60.30/UFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ USA_NETWORK |E! (Opt1)
+http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (opt1)
+http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-EFE5108D49-seeklogo.com.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ WWE (opt1)
+http://143.244.60.30/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="📺IPTVsports⚽",🇺🇸Ⓜ¹ YES_NETWORK | MLS Apple TV (opt1)
+http://143.244.60.30/YES_NETWORK/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVsports⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVsports⚽", ##########  ♥ GROUP 06 📺IPTVsports⚽ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVsports⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  143.244. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
 
 
 
