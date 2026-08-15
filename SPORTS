@@ -4547,37 +4547,37 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,The Mandalorian S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139878.mkv
-#EXTINF:-1,The Mandalorian S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139879.mkv
-#EXTINF:-1,The Mandalorian S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139880.mkv
-#EXTINF:-1,The Mandalorian S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139881.mkv
-#EXTINF:-1,The Mandalorian S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139882.mkv
-#EXTINF:-1,The Mandalorian S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139883.mkv
-#EXTINF:-1,The Mandalorian S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139884.mkv
-#EXTINF:-1,The Mandalorian S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139885.mkv
-#EXTINF:-1,The Mandalorian S02 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139886.mkv
-#EXTINF:-1,The Mandalorian S02 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139887.mkv
-#EXTINF:-1,The Mandalorian S02 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139888.mkv
-#EXTINF:-1,The Mandalorian S02 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139889.mkv
-#EXTINF:-1,The Mandalorian S02 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139890.mkv
-#EXTINF:-1,The Mandalorian S02 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139891.mkv
-#EXTINF:-1,The Mandalorian S02 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139892.mkv
-#EXTINF:-1,The Mandalorian S02 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Mandalorian S02 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139893.mkv
 
 
@@ -4586,91 +4586,91 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,El marginal S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99982.mp4
-#EXTINF:-1,El marginal S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99983.mp4
-#EXTINF:-1,El marginal S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99984.mp4
-#EXTINF:-1,El marginal S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99985.mp4
-#EXTINF:-1,El marginal S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99986.mp4
-#EXTINF:-1,El marginal S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99987.mp4
-#EXTINF:-1,El marginal S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99988.mp4
-#EXTINF:-1,El marginal S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99989.mp4
-#EXTINF:-1,El marginal S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99990.mp4
-#EXTINF:-1,El marginal S01 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99991.mp4
-#EXTINF:-1,El marginal S01 E11
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E11
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99992.mp4
-#EXTINF:-1,El marginal S01 E12
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E12
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99993.mp4
-#EXTINF:-1,El marginal S01 E13
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S01 E13
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99994.mp4
-#EXTINF:-1,El marginal S02 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99995.mp4
-#EXTINF:-1,El marginal S02 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99996.mkv
-#EXTINF:-1,El marginal S02 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99997.mp4
-#EXTINF:-1,El marginal S02 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99998.mp4
-#EXTINF:-1,El marginal S02 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99999.mp4
-#EXTINF:-1,El marginal S02 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100000.mp4
-#EXTINF:-1,El marginal S02 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100001.mp4
-#EXTINF:-1,El marginal S02 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S02 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100002.mkv
-#EXTINF:-1,El marginal S03 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100003.mkv
-#EXTINF:-1,El marginal S03 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100004.mkv
-#EXTINF:-1,El marginal S03 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100005.mkv
-#EXTINF:-1,El marginal S03 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100006.mkv
-#EXTINF:-1,El marginal S03 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100007.mkv
-#EXTINF:-1,El marginal S03 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100008.mkv
-#EXTINF:-1,El marginal S03 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100009.mkv
-#EXTINF:-1,El marginal S03 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S03 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/100010.mkv
-#EXTINF:-1,El marginal S04 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149787.mkv
-#EXTINF:-1,El marginal S04 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149788.mkv
-#EXTINF:-1,El marginal S04 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149789.mkv
-#EXTINF:-1,El marginal S04 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149790.mkv
-#EXTINF:-1,El marginal S04 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149791.mkv
-#EXTINF:-1,El marginal S04 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149792.mkv
-#EXTINF:-1,El marginal S04 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149793.mkv
-#EXTINF:-1,El marginal S04 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S04 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/149794.mkv
-#EXTINF:-1,El marginal S05 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152928.mkv
-#EXTINF:-1,El marginal S05 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152929.mkv
-#EXTINF:-1,El marginal S05 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152930.mkv
-#EXTINF:-1,El marginal S05 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152931.mkv
-#EXTINF:-1,El marginal S05 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152932.mkv
-#EXTINF:-1,El marginal S05 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",El marginal S05 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/152933.mkv
 
 
@@ -4679,23 +4679,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴅᴀʏsᴛᴀʀᵀᵛ🇺🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,The Umbrella Academy S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99946.mkv
-#EXTINF:-1,The Umbrella Academy S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99947.mkv
-#EXTINF:-1,The Umbrella Academy S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99948.mkv
-#EXTINF:-1,The Umbrella Academy S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99949.mkv
-#EXTINF:-1,The Umbrella Academy S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99950.mkv
-#EXTINF:-1,The Umbrella Academy S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99951.mkv
-#EXTINF:-1,The Umbrella Academy S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99952.mkv
-#EXTINF:-1,The Umbrella Academy S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99953.mkv
-#EXTINF:-1,The Umbrella Academy S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Umbrella Academy S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/99954.mkv
 
 
@@ -4743,23 +4743,23 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Batwoman S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135614.mkv
-#EXTINF:-1,Batwoman S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135615.mkv
-#EXTINF:-1,Batwoman S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135616.mkv
-#EXTINF:-1,Batwoman S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135617.mkv
-#EXTINF:-1,Batwoman S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135618.mkv
-#EXTINF:-1,Batwoman S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139752.mp4
-#EXTINF:-1,Batwoman S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139753.mp4
-#EXTINF:-1,Batwoman S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/139754.mp4
-#EXTINF:-1,Batwoman S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Batwoman S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135622.mkv
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴛʙɴᵀᵛ🇺🇸  ▂ ▄ ▅ ▆🍿🎥 🇺🇸Marvel's 616🇺🇸 🎥🍿▆ ▅ ▄ ▂
@@ -4767,21 +4767,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴅᴀʏsᴛᴀʀᵀᵛ🇺🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,Marvel's 616 S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135710.mkv
-#EXTINF:-1,Marvel's 616 S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135711.mkv
-#EXTINF:-1,Marvel's 616 S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135712.mkv
-#EXTINF:-1,Marvel's 616 S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135713.mkv
-#EXTINF:-1,Marvel's 616 S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135714.mkv
-#EXTINF:-1,Marvel's 616 S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135715.mkv
-#EXTINF:-1,Marvel's 616 S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135716.mkv
-#EXTINF:-1,Marvel's 616 S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel's 616 S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135717.mkv
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇪🇸  ▂ ▄ ▅ ▆🍿🎥 🇪🇸Bruja Escarlata y Visión (Wanda Vision)🇪🇸 🎥🍿▆ ▅ ▄ ▂
@@ -4789,25 +4789,25 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/134470.mkv
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/134471.mkv
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/134472.mkv
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/134473.mkv
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/134743.mp4
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135028.mp4
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135029.mp4
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135249.mp4
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135587.mp4
-#EXTINF:-1,Bruja Escarlata y Visión (Wanda Vision) S01 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Bruja Escarlata y Visión (Wanda Vision) S01 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135906.mp4
 
 
@@ -4816,17 +4816,17 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/136377.mkv
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/136853.mp4
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/137122.mp4
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/137254.mp4
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/137451.mp4
-#EXTINF:-1,Falcon y el Soldado de Invierno S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Falcon y el Soldado de Invierno S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/137589.mp4
 
 
@@ -4836,25 +4836,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴅᴀʏsᴛᴀʀᵀᵛ🇺🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,Krypton S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84283.mp4
-#EXTINF:-1,Krypton S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84284.mp4
-#EXTINF:-1,Krypton S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84285.mp4
-#EXTINF:-1,Krypton S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84286.mp4
-#EXTINF:-1,Krypton S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84287.mp4
-#EXTINF:-1,Krypton S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84288.mp4
-#EXTINF:-1,Krypton S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84289.mp4
-#EXTINF:-1,Krypton S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84290.mp4
-#EXTINF:-1,Krypton S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84291.mp4
-#EXTINF:-1,Krypton S01 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Krypton S01 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/84292.mp4
 
 
@@ -4864,21 +4864,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴅᴀʏsᴛᴀʀᵀᵛ🇺🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,The Defenders S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83679.mkv
-#EXTINF:-1,The Defenders S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83680.mkv
-#EXTINF:-1,The Defenders S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83681.mkv
-#EXTINF:-1,The Defenders S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83682.mkv
-#EXTINF:-1,The Defenders S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83683.mkv
-#EXTINF:-1,The Defenders S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83684.mkv
-#EXTINF:-1,The Defenders S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83685.mkv
-#EXTINF:-1,The Defenders S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",The Defenders S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83686.mkv
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇪🇸  ▂ ▄ ▅ ▆🍿🎥 🇪🇸Marvel - Jessica Jones🇪🇸 🎥🍿▆ ▅ ▄ ▂
@@ -4886,57 +4886,57 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Marvel - Jessica Jones S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83687.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83688.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83689.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83690.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83691.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83692.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83693.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83694.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83695.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83696.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E11
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E11
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83697.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E12
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E12
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83698.mkv
-#EXTINF:-1,Marvel - Jessica Jones S01 E13
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S01 E13
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83699.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83700.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83701.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83702.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83703.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83704.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83705.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83706.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83707.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83708.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83709.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E11
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E11
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83710.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E12
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E12
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83711.mkv
-#EXTINF:-1,Marvel - Jessica Jones S02 E13
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Marvel - Jessica Jones S02 E13
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/83712.mkv
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇪🇸  ▂ ▄ ▅ ▆🍿🎥 🇪🇸Agente Carter🇪🇸 🎥🍿▆ ▅ ▄ ▂
@@ -4944,41 +4944,41 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Agente Carter S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142965.mkv
-#EXTINF:-1,Agente Carter S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142966.mkv
-#EXTINF:-1,Agente Carter S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142967.mkv
-#EXTINF:-1,Agente Carter S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142968.mkv
-#EXTINF:-1,Agente Carter S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142969.mkv
-#EXTINF:-1,Agente Carter S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142970.mkv
-#EXTINF:-1,Agente Carter S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142971.mkv
-#EXTINF:-1,Agente Carter S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142972.mkv
-#EXTINF:-1,Agente Carter S02 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142973.mkv
-#EXTINF:-1,Agente Carter S02 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142974.mkv
-#EXTINF:-1,Agente Carter S02 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142975.mkv
-#EXTINF:-1,Agente Carter S02 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142976.mkv
-#EXTINF:-1,Agente Carter S02 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142977.mkv
-#EXTINF:-1,Agente Carter S02 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142978.mkv
-#EXTINF:-1,Agente Carter S02 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142979.mkv
-#EXTINF:-1,Agente Carter S02 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142980.mkv
-#EXTINF:-1,Agente Carter S02 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142981.mkv
-#EXTINF:-1,Agente Carter S02 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Agente Carter S02 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/142982.mkv
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇪🇸  ▂ ▄ ▅ ▆🍿🎥 🇪🇸Altered Carbon🇪🇸 🎥🍿▆ ▅ ▄ ▂
@@ -4986,41 +4986,41 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🇪🇸   🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily |00322.xyz 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Altered Carbon S01 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101193.mkv
-#EXTINF:-1,Altered Carbon S01 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101194.mkv
-#EXTINF:-1,Altered Carbon S01 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101195.mkv
-#EXTINF:-1,Altered Carbon S01 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101196.mkv
-#EXTINF:-1,Altered Carbon S01 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101197.mkv
-#EXTINF:-1,Altered Carbon S01 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101198.mkv
-#EXTINF:-1,Altered Carbon S01 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101199.mkv
-#EXTINF:-1,Altered Carbon S01 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101200.mkv
-#EXTINF:-1,Altered Carbon S01 E09
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E09
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101201.mkv
-#EXTINF:-1,Altered Carbon S01 E10
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S01 E10
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/101202.mkv
-#EXTINF:-1,Altered Carbon S02 E01
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E01
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135598.mp4
-#EXTINF:-1,Altered Carbon S02 E02
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E02
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135599.mp4
-#EXTINF:-1,Altered Carbon S02 E03
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E03
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135600.mp4
-#EXTINF:-1,Altered Carbon S02 E04
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E04
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135601.mp4
-#EXTINF:-1,Altered Carbon S02 E05
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E05
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135602.mp4
-#EXTINF:-1,Altered Carbon S02 E06
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E06
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135603.mp4
-#EXTINF:-1,Altered Carbon S02 E07
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E07
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135604.mp4
-#EXTINF:-1,Altered Carbon S02 E08
+#EXTINF:-1 group-title="🍿SERIESᵛᶦᵖ1️⃣",Altered Carbon S02 E08
 http://00322.xyz:8000/series/carlosquiroz52/MQPM675V4S/135605.mp4
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿SERIESᵛᶦᵖ1️⃣",® 🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🇪🇸  ▂ ▄ ▅ ▆🍿🎥 🇪🇸Spider-man y sus Sorprendentes Amigos🇪🇸 🎥🍿▆ ▅ ▄ ▂
@@ -6356,450 +6356,450 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1,American Underdog (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",American Underdog (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60289.mkv
-#EXTINF:-1,Dating & New York (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dating & New York (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60290.mkv
-#EXTINF:-1,Deadlock (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,Deadlock (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60291.mkv
-#EXTINF:-1,Eiffel (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Eiffel (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60292.mkv
-#EXTINF:-1,La panelista: el circo de la realidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La panelista: el circo de la realidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60294.mkv
-#EXTINF:-1,Cruzando la Línea (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cruzando la Línea (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60298.mkv
-#EXTINF:-1,The Hating Game (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Hating Game (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60299.mkv
-#EXTINF:-1,TQM (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",TQM (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60300.mkv
-#EXTINF:-1,Anne+: La película (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Anne+: La película (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60203.mkv
-#EXTINF:-1,Tácticas en el amor (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tácticas en el amor (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60204.mkv
-#EXTINF:-1,Bigbug (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bigbug (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60205.mkv
-#EXTINF:-1,El cielo está en cualquier lugar (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El cielo está en cualquier lugar (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60206.mkv
-#EXTINF:-1,Happily (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,Happily (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60207.mkv
-#EXTINF:-1,Hide and Seek (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Hide and Seek (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60208.mkv
-#EXTINF:-1,Al viento (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Al viento (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60209.mkv
-#EXTINF:-1,Quiero que vuelvas (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Quiero que vuelvas (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60210.mkv
-#EXTINF:-1,Amarrados al amor (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Amarrados al amor (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60211.mkv
-#EXTINF:-1,Cásate conmigo (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cásate conmigo (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60212.mkv
-#EXTINF:-1,Tall Girl 2 (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tall Girl 2 (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60213.mkv
-#EXTINF:-1,The In Between (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The In Between (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60214.mkv
-#EXTINF:-1,La hija del rey (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La hija del rey (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60215.mkv
-#EXTINF:-1,The King's Man: La Primera Misión (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The King's Man: La Primera Misión (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60216.mkv
-#EXTINF:-1,El privilegio (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El privilegio (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/60217.mkv
-#EXTINF:-1,La Casa Gucci (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Casa Gucci (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59955.mkv
-#EXTINF:-1,Lansky (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lansky (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59956.mkv
-#EXTINF:-1,Un bucle sin fin (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Un bucle sin fin (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59957.mkv
-#EXTINF:-1,El callejón de las almas perdidas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El callejón de las almas perdidas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59958.mkv
-#EXTINF:-1,El Reflejo del DIablo (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Reflejo del DIablo (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59959.mkv
-#EXTINF:-1,Sexo, pudor y lágrimas 2 (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sexo, pudor y lágrimas 2 (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59960.mkv
-#EXTINF:-1,Agentes 355 (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Agentes 355 (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59961.mkv
-#EXTINF:-1,The First Wave (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The First Wave (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59962.mkv
-#EXTINF:-1,The Long Night (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Long Night (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59963.mkv
-#EXTINF:-1,El Asesino de Tinder (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Asesino de Tinder (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59964.mkv
-#EXTINF:-1,Ice Age: Las aventuras de Buck (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ice Age: Las aventuras de Buck (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59639.mkv
-#EXTINF:-1,American Siege (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",American Siege (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59626.mkv
-#EXTINF:-1,Gold (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Gold (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59627.mkv
-#EXTINF:-1,Tierras altas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tierras altas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59628.mkv
-#EXTINF:-1,Jugar en casa (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Jugar en casa (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59629.mkv
-#EXTINF:-1,El violín de mi padre (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El violín de mi padre (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59630.mkv
-#EXTINF:-1,My Son (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",My Son (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59631.mkv
-#EXTINF:-1,Queenpins (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Queenpins (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59632.mkv
-#EXTINF:-1,Steve y la liga de los monstruos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Steve y la liga de los monstruos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59633.mkv
-#EXTINF:-1,Take Back (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Take Back (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59634.mkv
-#EXTINF:-1,La casa de las profundidades (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La casa de las profundidades (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59635.mkv
-#EXTINF:-1,The Electrical Life of Louis Wain (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Electrical Life of Louis Wain (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59636.mkv
-#EXTINF:-1,The Eyes of Tammy Faye (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Eyes of Tammy Faye (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59637.mkv
-#EXTINF:-1,The Fallout (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Fallout (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59638.mkv
-#EXTINF:-1,Sharkwater (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sharkwater (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59640.mkv
-#EXTINF:-1,Tratamiento real (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tratamiento real (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59641.mkv
-#EXTINF:-1,Triumph (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Triumph (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59642.mkv
-#EXTINF:-1,Sin pudor (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sin pudor (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59007.mkv
-#EXTINF:-1,Copshop (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Copshop (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59008.mkv
-#EXTINF:-1,El Comediante (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Comediante (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59009.mkv
-#EXTINF:-1,Hotel Transilvania: Transformanía (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Hotel Transilvania: Transformanía (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59010.mkv
-#EXTINF:-1,Cómo me enamoré de un gánster (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cómo me enamoré de un gánster (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59011.mkv
-#EXTINF:-1,In The Earth (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",In The Earth (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59012.mkv
-#EXTINF:-1,One Shot (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",One Shot (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59013.mkv
-#EXTINF:-1,La Fotocopiadora (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Fotocopiadora (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59014.mkv
-#EXTINF:-1,Ray Donovan: The Movie (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ray Donovan: The Movie (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59015.mkv
-#EXTINF:-1,Riverdance - La aventura animada (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Riverdance - La aventura animada (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59016.mkv
-#EXTINF:-1,Skipping Stones (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Skipping Stones (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59017.mkv
-#EXTINF:-1,La casa (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La casa (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59018.mkv
-#EXTINF:-1,La tragedia de Macbeth (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La tragedia de Macbeth (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59019.mkv
-#EXTINF:-1,Trust (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Trust (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/59020.mkv
-#EXTINF:-1,Eternals (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Eternals (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58815.mkv
-#EXTINF:-1,Resident Evil: Bienvenidos a Raccoon City (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Resident Evil: Bienvenidos a Raccoon City (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58816.mkv
-#EXTINF:-1,¡Canta! 2 (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Canta! 2 (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58760.mkv
-#EXTINF:-1,El páramo (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El páramo (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58761.mkv
-#EXTINF:-1,Madre - Androide (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Madre - Androide (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58759.mkv
-#EXTINF:-1,El Caballero Verde (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Caballero Verde (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58762.mkv
-#EXTINF:-1,The Tender Bar (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Tender Bar (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58763.mkv
-#EXTINF:-1,Cazafantasmas: Más allá (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cazafantasmas: Más allá (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58476.mkv
-#EXTINF:-1,Spin (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Spin (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58477.mkv
-#EXTINF:-1,Chief Daddy 2: Going for Broke (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Chief Daddy 2: Going for Broke (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58474.mkv
-#EXTINF:-1,4 mitades (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",4 mitades (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58475.mkv
-#EXTINF:-1,Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58397.mkv
-#EXTINF:-1,Lulli (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lulli (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58399.mkv
-#EXTINF:-1,Naked Singularity (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Naked Singularity (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58400.mkv
-#EXTINF:-1,Chilangolandia (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Chilangolandia (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58395.mkv
-#EXTINF:-1,Lejos del árbol (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lejos del árbol (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58396.mkv
-#EXTINF:-1,Hilda y el Rey de la montaña (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Hilda y el Rey de la montaña (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58398.mkv
-#EXTINF:-1,National Champions (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",National Champions (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58401.mkv
-#EXTINF:-1,Equipo foca (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Equipo foca (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58402.mkv
-#EXTINF:-1,South Park - Post Covid: El Retorno del Covid (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",South Park - Post Covid: El Retorno del Covid (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58403.mkv
-#EXTINF:-1,The Lost Daughter (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Lost Daughter (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58404.mkv
-#EXTINF:-1,Encanto (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Encanto (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58250.mkv
-#EXTINF:-1,A mil kilómetros de la Navidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A mil kilómetros de la Navidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58248.mkv
-#EXTINF:-1,No mires arriba (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",No mires arriba (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58249.mkv
-#EXTINF:-1,Far From the Tree (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Far From the Tree (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58251.mkv
-#EXTINF:-1,മിന്നൽ മുരളി (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",മിന്നൽ മുരളി (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58252.mkv
-#EXTINF:-1,El secreto de Vicky (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El secreto de Vicky (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58253.mkv
-#EXTINF:-1,Mamá o papá (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mamá o papá (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58254.mkv
-#EXTINF:-1,Matrix 4: Resurrecciones (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Matrix 4: Resurrecciones (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58247.mkv
-#EXTINF:-1,A Choice of Weapons: Inspired by Gordon Parks (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Choice of Weapons: Inspired by Gordon Parks (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58244.mkv
-#EXTINF:-1,Being the Ricardos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Being the Ricardos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58245.mkv
-#EXTINF:-1,Una Navidad No Tan Padre (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una Navidad No Tan Padre (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58246.mkv
-#EXTINF:-1,10 razones para odiarte (1999)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",10 razones para odiarte (1999)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58134.mkv
-#EXTINF:-1,Sin compromiso (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sin compromiso (2011)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58135.mkv
-#EXTINF:-1,El guardaespaldas (1992)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El guardaespaldas (1992)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58136.mkv
-#EXTINF:-1,Devuélveme mi suerte (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Devuélveme mi suerte (2006)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58137.mkv
-#EXTINF:-1,Lolita (1962)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lolita (1962)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58138.mkv
-#EXTINF:-1,Lo que el viento se llevó (1940)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lo que el viento se llevó (1940)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58139.mkv
-#EXTINF:-1,No puedes comprar mi amor (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",No puedes comprar mi amor (1987)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58140.mkv
-#EXTINF:-1,La boda de mi novia (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La boda de mi novia (2008)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58141.mkv
-#EXTINF:-1,Recién casados (2003)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Recién casados (2003)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58142.mkv
-#EXTINF:-1,Sin reservas (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sin reservas (2007)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58143.mkv
-#EXTINF:-1,Algo para recordar (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Algo para recordar (1993)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58144.mkv
-#EXTINF:-1,El sueño de mi vida (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El sueño de mi vida (2004)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58145.mkv
-#EXTINF:-1,Un Angel Enamorado (1998)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Un Angel Enamorado (1998)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58146.mkv
-#EXTINF:-1,Separados (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Separados (2006)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58147.mkv
-#EXTINF:-1,10 palomas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",10 palomas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58126.mkv
-#EXTINF:-1,A Naija Christmas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Naija Christmas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58127.mkv
-#EXTINF:-1,A Matter of Causality
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Matter of Causality
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58128.mkv
-#EXTINF:-1,La navidad esta cancelada (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La navidad esta cancelada (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58129.mkv
-#EXTINF:-1,Fortress (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fortress (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58130.mkv
-#EXTINF:-1,Mother/Android (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mother/Android (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58131.mkv
-#EXTINF:-1,El canto del cisne (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El canto del cisne (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58132.mkv
-#EXTINF:-1,Tú eres mi problema
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tú eres mi problema
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58133.mkv
-#EXTINF:-1,Clifford, el gran perro rojo (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Clifford, el gran perro rojo (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58039.mp4
-#EXTINF:-1,Globo y las maravillas del arrecife (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Globo y las maravillas del arrecife (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58041.mp4
-#EXTINF:-1,Held (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Held (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58042.mp4
-#EXTINF:-1,La Cantera (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Cantera (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58043.mp4
-#EXTINF:-1,Santos Criminales (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Santos Criminales (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58044.mp4
-#EXTINF:-1,Mr. Saturday Night (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mr. Saturday Night (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58045.mp4
-#EXTINF:-1,Operación Feliz Navidad: La estafa de los duendes (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Operación Feliz Navidad: La estafa de los duendes (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58046.mp4
-#EXTINF:-1,The Match (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Match (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58049.mp4
-#EXTINF:-1,The Middle Man (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Middle Man (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/58050.mp4
-#EXTINF:-1,Antlers: Criatura oscura (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Antlers: Criatura oscura (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57727.mkv
-#EXTINF:-1,Blue Bayou (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Blue Bayou (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57728.mkv
-#EXTINF:-1,Snoopy presenta: Por los viejos tiempos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Snoopy presenta: Por los viejos tiempos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57729.mkv
-#EXTINF:-1,La crónica francesa (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La crónica francesa (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57730.mkv
-#EXTINF:-1,Dos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57731.mkv
-#EXTINF:-1,Anónima (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Anónima (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57574.mkv
-#EXTINF:-1,El chico de Asakusa (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El chico de Asakusa (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57575.mkv
-#EXTINF:-1,Azor (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Azor (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57576.mkv
-#EXTINF:-1,¡Nos Volvemos a Casa! (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Nos Volvemos a Casa! (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57577.mkv
-#EXTINF:-1,David y los Elfos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",David y los Elfos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57578.mkv
-#EXTINF:-1,Encounter (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Encounter (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57579.mkv
-#EXTINF:-1,Mickey and Minnie Wish Upon a Christmas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mickey and Minnie Wish Upon a Christmas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57580.mkv
-#EXTINF:-1,Phobias (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Phobias (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57581.mkv
-#EXTINF:-1,Shithouse (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Shithouse (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57582.mkv
-#EXTINF:-1,South Park: Post Covid (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",South Park: Post Covid (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57583.mkv
-#EXTINF:-1,En un momento aún mejor (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",En un momento aún mejor (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57584.mkv
-#EXTINF:-1,Imperdonable (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Imperdonable (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57585.mkv
-#EXTINF:-1,Witch Hunt (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Witch Hunt (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57586.mkv
-#EXTINF:-1,Joven Manos de Tijeras (1990)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Joven Manos de Tijeras (1990)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57539.mkv
-#EXTINF:-1,Cuento de Navidad (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cuento de Navidad (2009)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57540.mkv
-#EXTINF:-1,Bordertown: Murales de sangre (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bordertown: Murales de sangre (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57525.mkv
-#EXTINF:-1,Christmas ...Again?! (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Christmas ...Again?! (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57526.mkv
-#EXTINF:-1,El Diario de Greg (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Diario de Greg (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57527.mkv
-#EXTINF:-1,Elyse (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Elyse (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57528.mkv
-#EXTINF:-1,La Serpiente Blanca 2 (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Serpiente Blanca 2 (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57529.mkv
-#EXTINF:-1,Last Shoot Out (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Last Shoot Out (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57530.mkv
-#EXTINF:-1,La cinta de música (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La cinta de música (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57531.mkv
-#EXTINF:-1,Shaun, el cordero: El vuelo antes de Navidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Shaun, el cordero: El vuelo antes de Navidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57532.mkv
-#EXTINF:-1,Silent Night (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Silent Night (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57533.mkv
-#EXTINF:-1,Soltero hasta Navidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Soltero hasta Navidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57534.mkv
-#EXTINF:-1,Sooryavanshi (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sooryavanshi (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57535.mkv
-#EXTINF:-1,El poder del perro (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El poder del perro (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57536.mkv
-#EXTINF:-1,La casa de los abuelos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La casa de los abuelos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57537.mkv
-#EXTINF:-1,Your Eyes Tell (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Your Eyes Tell (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57538.mkv
-#EXTINF:-1,Querido Evan Hansen (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Querido Evan Hansen (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57340.mkv
-#EXTINF:-1,El Amarre (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Amarre (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57341.mkv
-#EXTINF:-1,Lead Me Home (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lead Me Home (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57342.mkv
-#EXTINF:-1,Donde caben dos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Donde caben dos (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57343.mkv
-#EXTINF:-1,Paranormal Activity: Next of Kin (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Paranormal Activity: Next of Kin (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57344.mkv
-#EXTINF:-1,Ron da Error (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ron da Error (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57345.mkv
-#EXTINF:-1,Quédate conmigo, Doraemon 2 (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Quédate conmigo, Doraemon 2 (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57346.mkv
-#EXTINF:-1,The Humans (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Humans (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57347.mkv
-#EXTINF:-1,El último duelo (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El último duelo (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57348.mkv
-#EXTINF:-1,El poder del perro (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El poder del perro (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57349.mkv
-#EXTINF:-1,La cumbre de los dioses (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La cumbre de los dioses (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57350.mkv
-#EXTINF:-1,Diego, El último adiós (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Diego, El último adiós (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57190.mkv
-#EXTINF:-1,Navidad en 8 bits (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Navidad en 8 bits (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57185.mkv
-#EXTINF:-1,El chico que salvó la Navidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El chico que salvó la Navidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57186.mkv
-#EXTINF:-1,Un Castillo por Navidad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Un Castillo por Navidad (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57187.mkv
-#EXTINF:-1,Black Friday (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Black Friday (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57188.mkv
-#EXTINF:-1,Herida (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Herida (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57189.mkv
-#EXTINF:-1,God's Not Dead: We The People (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",God's Not Dead: We The People (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57191.mkv
-#EXTINF:-1,Koati (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Koati (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57192.mkv
-#EXTINF:-1,Millonario sin amor (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Millonario sin amor (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57193.mkv
-#EXTINF:-1,Motherly (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Motherly (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57194.mkv
-#EXTINF:-1,Peti Roja (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Peti Roja (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57195.mkv
-#EXTINF:-1,Ricos y mimados (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ricos y mimados (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57196.mkv
-#EXTINF:-1,La maldición de Lake Manor (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La maldición de Lake Manor (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57197.mkv
-#EXTINF:-1,Venom: Habrá Matanza (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Venom: Habrá Matanza (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57138.mkv
-#EXTINF:-1,Garota da Moto (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Garota da Moto (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57134.mkv
-#EXTINF:-1,A todo tren: destino Asturias (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A todo tren: destino Asturias (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57135.mkv
-#EXTINF:-1,El Hombre Búfalo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Hombre Búfalo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57136.mkv
-#EXTINF:-1,Las leyes de la frontera (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Las leyes de la frontera (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57137.mkv
-#EXTINF:-1,After: almas perdidas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",After: almas perdidas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57117.mkv
-#EXTINF:-1,Chernobyl: Abyss (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Chernobyl: Abyss (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57118.mkv
-#EXTINF:-1,Dark Spell (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dark Spell (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57119.mkv
-#EXTINF:-1,Dhamaka (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dhamaka (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57120.mkv
-#EXTINF:-1,¡Nos hemos extinguido! (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Nos hemos extinguido! (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57121.mkv
-#EXTINF:-1,Aquí y ahora (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Aquí y ahora (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57122.mkv
-#EXTINF:-1,El método Williams (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El método Williams (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57123.mkv
-#EXTINF:-1,Última Noche en el Soho (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Última Noche en el Soho (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57124.mkv
-#EXTINF:-1,Quiéreme igualmente (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Quiéreme igualmente (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57125.mkv
-#EXTINF:-1,Masquerade (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Masquerade (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57126.mkv
-#EXTINF:-1,Mickey y las dos brujas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mickey y las dos brujas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57127.mkv
-#EXTINF:-1,Una familia feliz 2 (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una familia feliz 2 (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57128.mkv
-#EXTINF:-1,Noche de fuego (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Noche de fuego (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57129.mkv
-#EXTINF:-1,Procession (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Procession (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57130.mkv
-#EXTINF:-1,Requetecambio de princesa (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Requetecambio de princesa (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57131.mkv
-#EXTINF:-1,Tick, Tick... Boom! (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tick, Tick... Boom! (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57132.mkv
-#EXTINF:-1,Zeros and Ones (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Zeros and Ones (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/57133.mkv
-#EXTINF:-1,Shang-Chi y la leyenda de los Diez Anillos 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Shang-Chi y la leyenda de los Diez Anillos 
 
 
-#EXTINF:-1,Madame Claude (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Madame Claude (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44309.mkv
-#EXTINF:-1,Twist (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Twist (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44312.mkv
-#EXTINF:-1,Caos: El inicio (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Caos: El inicio (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44305.mkv
-#EXTINF:-1,Cowboy de asfalto (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cowboy de asfalto (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44306.mkv
-#EXTINF:-1,La fuerza de la naturaleza (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La fuerza de la naturaleza (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44307.mkv
-#EXTINF:-1,Mercenarios de élite (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mercenarios de élite (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44308.mkv
-#EXTINF:-1,Run (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Run (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44310.mkv
-#EXTINF:-1,Hasta el cielo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Hasta el cielo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44311.mkv
-#EXTINF:-1,Godzilla vs Kong (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Godzilla vs Kong (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44206.mkv
-#EXTINF:-1,Agencia Secreta de Control Mágico (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Agencia Secreta de Control Mágico (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44209.mkv
-#EXTINF:-1,Un mal viaje (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Un mal viaje (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44215.mkv
-#EXTINF:-1,WWE Fastlane 2021 (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",WWE Fastlane 2021 (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44216.mkv
-#EXTINF:-1,El campamento de mi vida (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El campamento de mi vida (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44201.mkv
-#EXTINF:-1,En la misma ola (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",En la misma ola (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/44202.mkv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 🍿MOVIESᵛᶦᵖ 🇺🇸  🌐🌎⭐ 🍿MOVIESᵛᶦᵖ ⭐🌎🌐
@@ -6936,537 +6936,537 @@ http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42523.mkv
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42524.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mortal (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42525.mkv
-#EXTINF:-1,Psycho Granny (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Psycho Granny (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42526.mkv
-#EXTINF:-1,El misterio de Block Island (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El misterio de Block Island (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42527.mkv
-#EXTINF:-1,Lo que la noche esconde (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lo que la noche esconde (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42528.mkv
-#EXTINF:-1,Asesino de modelos (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Asesino de modelos (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42529.mkv
-#EXTINF:-1,Tito Paleto (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tito Paleto (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42530.mkv
-#EXTINF:-1,Vicious fun (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Vicious fun (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42531.mkv
-#EXTINF:-1,Clara y Claire (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Clara y Claire (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42532.mkv
-#EXTINF:-1,El rey de Zamunda 2 (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El rey de Zamunda 2 (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42442.mkv
-#EXTINF:-1,El diablo entre las piernas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El diablo entre las piernas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42445.mkv
-#EXTINF:-1,Moxie (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Moxie (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42450.mkv
-#EXTINF:-1,Raya y el último dragón (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Raya y el último dragón (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42451.mkv
-#EXTINF:-1,Centinela (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Centinela (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42453.mkv
-#EXTINF:-1,Soy Luna: El último concierto (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Soy Luna: El último concierto (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42454.mkv
-#EXTINF:-1,The Mauritanian (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Mauritanian (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42457.mkv
-#EXTINF:-1,Death of Me (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Death of Me (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42443.mkv
-#EXTINF:-1,El agente topo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El agente topo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42444.mkv
-#EXTINF:-1,Imprisoned (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Imprisoned (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42446.mkv
-#EXTINF:-1,Bad Impulse (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bad Impulse (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42447.mkv
-#EXTINF:-1,La chica invisible (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La chica invisible (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42448.mkv
-#EXTINF:-1,Lupe (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lupe (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42449.mkv
-#EXTINF:-1,Pool Boy Nightmare (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Pool Boy Nightmare (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42452.mkv
-#EXTINF:-1,Spell (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Spell (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42455.mkv
-#EXTINF:-1,Henchmen (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Henchmen (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42456.mkv
-#EXTINF:-1,The Nest (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Nest (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42458.mkv
-#EXTINF:-1,Tom y Jerry (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tom y Jerry (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42216.mkv
-#EXTINF:-1,Barb and Star Go to Vista Del Mar (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Barb and Star Go to Vista Del Mar (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42206.mkv
-#EXTINF:-1,La Familia Bigfoot (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Familia Bigfoot (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42207.mkv
-#EXTINF:-1,Pelea de chicas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Pelea de chicas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42208.mkv
-#EXTINF:-1,Loco por ella (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Loco por ella (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42209.mkv
-#EXTINF:-1,Danyka (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Danyka (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42210.mkv
-#EXTINF:-1,Fukushima 50 (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fukushima 50 (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42211.mkv
-#EXTINF:-1,The Wrong Fiancé (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Wrong Fiancé (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42212.mkv
-#EXTINF:-1,Rocket Hunter (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Rocket Hunter (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42213.mkv
-#EXTINF:-1,Sweetness in the Belly (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sweetness in the Belly (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42214.mkv
-#EXTINF:-1,Mira, la chica del tren (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mira, la chica del tren (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42215.mkv
-#EXTINF:-1,Pelé (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Pelé (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42062.mkv
-#EXTINF:-1,BIA: Un Mundo al Revés (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",BIA: Un Mundo al Revés (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42049.mkv
-#EXTINF:-1,WWE Elimination Chamber 2015 (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",WWE Elimination Chamber 2015 (2015)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42054.mkv
-#EXTINF:-1,I Care a Lot (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",I Care a Lot (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42056.mkv
-#EXTINF:-1,Marvel detrás de la máscara (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Marvel detrás de la máscara (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42059.mkv
-#EXTINF:-1,Scooby-Doo! The Sword and the Scoob (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Scooby-Doo! The Sword and the Scoob (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42063.mkv
-#EXTINF:-1,Tentacles (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tentacles (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42064.mkv
-#EXTINF:-1,Wrong Turn (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Wrong Turn (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42065.mkv
-#EXTINF:-1,Becky (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Becky (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42048.mkv
-#EXTINF:-1,Break (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Break (2009)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42050.mkv
-#EXTINF:-1,En la oscuridad (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",En la oscuridad (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42052.mkv
-#EXTINF:-1,Mina y el mundo de los sueños (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mina y el mundo de los sueños (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42053.mkv
-#EXTINF:-1,Fatale (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fatale (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42055.mkv
-#EXTINF:-1,Rey de ladrones (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Rey de ladrones (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42057.mkv
-#EXTINF:-1,La invocación (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La invocación (2013)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42058.mkv
-#EXTINF:-1,Mi abuelo es un extraterrestre (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mi abuelo es un extraterrestre (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42060.mkv
-#EXTINF:-1,Monster Hunter (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Monster Hunter (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/42061.mkv
-#EXTINF:-1,Buscando a Eva (1999)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Buscando a Eva (1999)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41881.mkv
-#EXTINF:-1,Fear of Rain (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fear of Rain (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41525.mkv
-#EXTINF:-1,Judas y el Mesías Negro (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Judas y el Mesías Negro (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41527.mkv
-#EXTINF:-1,Punto rojo (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Punto rojo (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41529.mkv
-#EXTINF:-1,Amor al cuadrado (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Amor al cuadrado (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41530.mkv
-#EXTINF:-1,El mapa de las pequeñas cosas perfectas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El mapa de las pequeñas cosas perfectas (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41532.mkv
-#EXTINF:-1,A todos los chicos: Para siempre (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A todos los chicos: Para siempre (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41533.mkv
-#EXTINF:-1,¿Qué fue del Sr. Cha? (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¿Qué fue del Sr. Cha? (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41534.mkv
-#EXTINF:-1,108 Costuras (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",108 Costuras (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41522.mkv
-#EXTINF:-1,Abduction (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Abduction (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41523.mkv
-#EXTINF:-1,A Valentine's Match (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Valentine's Match (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41524.mkv
-#EXTINF:-1,Joueurs (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,Joueurs (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41526.mkv
-#EXTINF:-1,Narco Soldiers (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Narco Soldiers (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41528.mkv
-#EXTINF:-1,The Lost Princess (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Lost Princess (2005)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41531.mkv
-#EXTINF:-1,Z (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Z (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41535.mkv
-#EXTINF:-1,Colegio de magia y hechicería (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Colegio de magia y hechicería (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41430.mkv
-#EXTINF:-1,Cosmética del enemigo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cosmética del enemigo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41431.mkv
-#EXTINF:-1,Attraction 2: El fin de los tiempos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Attraction 2: El fin de los tiempos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41432.mkv
-#EXTINF:-1,Psych 2: Lassie Come Home (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Psych 2: Lassie Come Home (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41434.mkv
-#EXTINF:-1,Víctima del poder (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Víctima del poder (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41436.mkv
-#EXTINF:-1,Richard dice adiós (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Richard dice adiós (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41437.mkv
-#EXTINF:-1,Presencias malditas (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Presencias malditas (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41438.mkv
-#EXTINF:-1,Bliss (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bliss (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41425.mkv
-#EXTINF:-1,Malcolm & Marie (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Malcolm & Marie (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41426.mkv
-#EXTINF:-1,Barrenderos espaciales (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Barrenderos espaciales (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41427.mkv
-#EXTINF:-1,Strip Down Rise Up (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Strip Down Rise Up (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41428.mkv
-#EXTINF:-1,El último de los Paradiso (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El último de los Paradiso (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41429.mkv
-#EXTINF:-1,Fake Famous (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fake Famous (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41351.mkv
-#EXTINF:-1,La funeraria (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La funeraria (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41357.mkv
-#EXTINF:-1,Virgen de San Juan, cuatro siglos de milagros (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Virgen de San Juan, cuatro siglos de milagros (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41360.mkv
-#EXTINF:-1,2 corazones (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",2 corazones (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41347.mkv
-#EXTINF:-1,Black Beach (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Black Beach (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41348.mkv
-#EXTINF:-1,Días de un extraño verano (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Días de un extraño verano (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41349.mkv
-#EXTINF:-1,Explota Explota (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Explota Explota (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41350.mkv
-#EXTINF:-1,Honey Boy (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Honey Boy (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41352.mkv
-#EXTINF:-1,Los fuertes (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los fuertes (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41353.mkv
-#EXTINF:-1,Madre oscura (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Madre oscura (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41354.mkv
-#EXTINF:-1,El profesor (Teacher) (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El profesor (Teacher) (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41355.mkv
-#EXTINF:-1,The Cleansing Hour (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Cleansing Hour (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41356.mkv
-#EXTINF:-1,Todos mis amigos están muertos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Todos mis amigos están muertos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41358.mkv
-#EXTINF:-1,Vicious fun (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Vicious fun (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41359.mkv
-#EXTINF:-1,¡Ánimo Juventud! (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Ánimo Juventud! (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41361.mkv
-#EXTINF:-1,Butchers (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Butchers (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41265.mkv
-#EXTINF:-1,Padre por duplicado (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Padre por duplicado (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41268.mkv
-#EXTINF:-1,El ascensor (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El ascensor (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41270.mkv
-#EXTINF:-1,Palmer (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Palmer (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41275.mkv
-#EXTINF:-1,The Little Things (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Little Things (2013)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41281.mkv
-#EXTINF:-1,Para toda la vida (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Para toda la vida (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41263.mkv
-#EXTINF:-1,Below Zero (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Below Zero (2011)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41264.mkv
-#EXTINF:-1,Atrapado (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Atrapado (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41266.mkv
-#EXTINF:-1,Dino Dana: La Película (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dino Dana: La Película (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41267.mkv
-#EXTINF:-1,Generación Y (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Generación Y (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41269.mkv
-#EXTINF:-1,Ohana: El Tesoro De Hawái (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ohana: El Tesoro De Hawái (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41272.mkv
-#EXTINF:-1,Jiu Jitsu (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Jiu Jitsu (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41273.mkv
-#EXTINF:-1,Nuevo orden (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Nuevo orden (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41274.mkv
-#EXTINF:-1,Una joven prometedora (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una joven prometedora (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41276.mkv
-#EXTINF:-1,A Soldiers Revenge (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Soldiers Revenge (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41277.mkv
-#EXTINF:-1,The Captive Nanny (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Captive Nanny (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41278.mkv
-#EXTINF:-1,The Dig (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Dig (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41279.mkv
-#EXTINF:-1,El joven detective (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,El joven detective (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41280.mkv
-#EXTINF:-1,The Outpost (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Outpost (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41282.mkv
-#EXTINF:-1,The Right One (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Right One (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41283.mkv
-#EXTINF:-1,Ultraman Geed The Movie (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ultraman Geed The Movie (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41284.mkv
-#EXTINF:-1,Última misión en Afganistán (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Última misión en Afganistán (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41285.mkv
-#EXTINF:-1,Batman: Alma de Dragón (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Batman: Alma de Dragón (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41086.mkv
-#EXTINF:-1,Crack: Cocaine, Corruption & Conspiracy (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Crack: Cocaine, Corruption & Conspiracy (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41089.mkv
-#EXTINF:-1,El ascensor (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El ascensor (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41090.mkv
-#EXTINF:-1,Una noche en Miami… (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una noche en Miami… (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41095.mkv
-#EXTINF:-1,Outside the Wire (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Outside the Wire (2016)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41096.mkv
-#EXTINF:-1,100% Wolf: Pequeño gran lobo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",100% Wolf: Pequeño gran lobo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41083.mkv
-#EXTINF:-1,A Gruta (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Gruta (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41084.mkv
-#EXTINF:-1,A Murder to Remember (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Murder to Remember (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41085.mkv
-#EXTINF:-1,Contagio en alta mar (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Contagio en alta mar (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41087.mkv
-#EXTINF:-1,Cosmoball (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cosmoball (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41088.mkv
-#EXTINF:-1,The Driver (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Driver (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41091.mkv
-#EXTINF:-1,EnPAREJAdos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",EnPAREJAdos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41092.mkv
-#EXTINF:-1,La familia Bigfoot (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La familia Bigfoot (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41093.mkv
-#EXTINF:-1,Noticias del gran mundo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Noticias del gran mundo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41094.mkv
-#EXTINF:-1,Sputnik (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sputnik (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41097.mkv
-#EXTINF:-1,The Empty Man (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Empty Man (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41098.mkv
-#EXTINF:-1,Palabras en las paredes del baño (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Palabras en las paredes del baño (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41099.mkv
-#EXTINF:-1,¡Ni te me acerques! (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Ni te me acerques! (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41100.mkv
-#EXTINF:-1,Tony Parker: La última canasta (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tony Parker: La última canasta (2021)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41039.mkv
-#EXTINF:-1,Excuse me, I love you (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Excuse me, I love you (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41025.mkv
-#EXTINF:-1,Beber de tu sangre (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Beber de tu sangre (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41026.mkv
-#EXTINF:-1,Copper Bill (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Copper Bill (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41027.mkv
-#EXTINF:-1,Full Out 2: You Got This! (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Full Out 2: You Got This! (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41028.mkv
-#EXTINF:-1,Historias de la morgue (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Historias de la morgue (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41029.mkv
-#EXTINF:-1,JL Family Ranch: The Wedding Gift (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",JL Family Ranch: The Wedding Gift (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41030.mkv
-#EXTINF:-1,Fragmentos de una mujer (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fragmentos de una mujer (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41032.mkv
-#EXTINF:-1,Látex rojo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Látex rojo
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41033.mkv
-#EXTINF:-1,La Última Fase (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Última Fase (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41034.mkv
-#EXTINF:-1,The Glorias (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Glorias (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41035.mkv
-#EXTINF:-1,The Last Shift (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Last Shift (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41037.mkv
-#EXTINF:-1,Return of the Tooth Fairy (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,Return of the Tooth Fairy (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41040.mkv
-#EXTINF:-1,Una sirena en París (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una sirena en París (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41041.mkv
-#EXTINF:-1,Vanguard (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Vanguard (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41042.mkv
-#EXTINF:-1,Superniños (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Superniños (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41043.mkv
-#EXTINF:-1,Amor Mutante (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Amor Mutante (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41024.mkv
-#EXTINF:-1,No Sin Unpunished (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",No Sin Unpunished (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41031.mkv
-#EXTINF:-1,La cazadora: Runa de los muertos (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La cazadora: Runa de los muertos (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41036.mkv
-#EXTINF:-1,The Shed (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Shed (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41038.mkv
-#EXTINF:-1,Yummy (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Yummy (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/41044.mkv
-#EXTINF:-1,Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Wonder Woman 1984 (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40818.mkv
-#EXTINF:-1,AK vs AK (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",AK vs AK (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40819.mkv
-#EXTINF:-1,Chichipatos: ¡qué chimba de Navidad! (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Chichipatos: ¡qué chimba de Navidad! (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40820.mkv
-#EXTINF:-1,From the Depths (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",From the Depths (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40821.mkv
-#EXTINF:-1,Medio hermanos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Medio hermanos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40822.mkv
-#EXTINF:-1,Solía ir allí (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Solía ir allí (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40823.mkv
-#EXTINF:-1,La madre del blues (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La madre del blues (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40824.mkv
-#EXTINF:-1,Mundo Miraculous: Nueva York, Héroes Unidos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mundo Miraculous: Nueva York, Héroes Unidos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40825.mkv
-#EXTINF:-1,Soul (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Soul (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40826.mkv
-#EXTINF:-1,Sylvie's Love (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sylvie's Love (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40827.mkv
-#EXTINF:-1,The Doorman (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Doorman (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40828.mkv
-#EXTINF:-1,Cielo de medianoche (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cielo de medianoche (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40829.mkv
-#EXTINF:-1,The Reason (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Reason (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40830.mkv
-#EXTINF:-1,The Secrets We Keep (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Secrets We Keep (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40831.mkv
-#EXTINF:-1,El árbol de los deseos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El árbol de los deseos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40832.mkv
-#EXTINF:-1,Estación zombie 2 (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Estación zombie 2 (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40833.mkv
-#EXTINF:-1,Los Croods: Una nueva era (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los Croods: Una nueva era (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40776.mkv
-#EXTINF:-1,Curious George: Go West, Go Wild (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Curious George: Go West, Go Wild (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40771.mkv
-#EXTINF:-1,Infamous (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Infamous (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40772.mkv
-#EXTINF:-1,El camino de Xico (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El camino de Xico (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40773.mkv
-#EXTINF:-1,La estación de la felicidad (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La estación de la felicidad (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40774.mkv
-#EXTINF:-1,La cita navideña de papá (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La cita navideña de papá (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40775.mkv
-#EXTINF:-1,Los caminos que no escogemos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los caminos que no escogemos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40777.mkv
-#EXTINF:-1,Cambio de Papeles (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cambio de Papeles (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40778.mkv
-#EXTINF:-1,Ammonite (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ammonite (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40754.mkv
-#EXTINF:-1,Bobbleheads: The Movie (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bobbleheads: The Movie (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40755.mkv
-#EXTINF:-1,Super Wombat (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Super Wombat (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40756.mkv
-#EXTINF:-1,Faith Under Fire (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Faith Under Fire (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40757.mkv
-#EXTINF:-1,Soy tu mujer (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Soy tu mujer (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40758.mkv
-#EXTINF:-1,Cómo sobrevivir en un mundo material (Kajillionaire) (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cómo sobrevivir en un mundo material (Kajillionaire) (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40759.mkv
-#EXTINF:-1,Mank (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mank (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40760.mkv
-#EXTINF:-1,I Hate Summer (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",I Hate Summer (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40761.mkv
-#EXTINF:-1,La increíble historia de la Isla de las Rosas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La increíble historia de la Isla de las Rosas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40762.mkv
-#EXTINF:-1,Safety: La última línea de defensa (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Safety: La última línea de defensa (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40763.mkv
-#EXTINF:-1,Sin Origen (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sin Origen (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40764.mkv
-#EXTINF:-1,The Gift of Christmas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Gift of Christmas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40765.mkv
-#EXTINF:-1,The Prom (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Prom (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40766.mkv
-#EXTINF:-1,En guerra con mi abuelo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",En guerra con mi abuelo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40767.mkv
-#EXTINF:-1,A Christmas Love Story (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",A Christmas Love Story (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40768.mkv
-#EXTINF:-1,Una canción irlandesa (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una canción irlandesa (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40769.mkv
-#EXTINF:-1,Wolfwalkers (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Wolfwalkers (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40770.mkv
-#EXTINF:-1,Venganza implacable (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Venganza implacable (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40717.mkv
-#EXTINF:-1,Lassie Come Home (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lassie Come Home (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40719.mkv
-#EXTINF:-1,Tenet (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Tenet (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40720.mkv
-#EXTINF:-1,Este cuerpo me sienta de muerte (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Este cuerpo me sienta de muerte (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40714.mkv
-#EXTINF:-1,Fuego cruzado por Navidad (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Fuego cruzado por Navidad (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40715.mkv
-#EXTINF:-1,Amadrinadas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Amadrinadas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40716.mkv
-#EXTINF:-1,La nochebuena es mi condena (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La nochebuena es mi condena (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40718.mkv
-#EXTINF:-1,Jóvenes y Brujas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Jóvenes y Brujas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40721.mkv
-#EXTINF:-1,El deseo de Navidad de Ángela (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El deseo de Navidad de Ángela (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40671.mkv
-#EXTINF:-1,Black Beauty (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Black Beauty (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40673.mkv
-#EXTINF:-1,I Was Lorena Bobbitt (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",I Was Lorena Bobbitt (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40676.mkv
-#EXTINF:-1,Marea alta (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Marea alta (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40679.mkv
-#EXTINF:-1,Riding with Sugar (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Riding with Sugar (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40681.mkv
-#EXTINF:-1,The Silencing (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Silencing (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40683.mkv
-#EXTINF:-1,The Tax Collector (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Tax Collector (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40684.mkv
-#EXTINF:-1,Voces (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Voces (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40685.mkv
-#EXTINF:-1,Above Suspicion (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Above Suspicion (2000)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40669.mkv
-#EXTINF:-1,Ana (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ana (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40670.mkv
-#EXTINF:-1,Ava (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ava (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40672.mkv
-#EXTINF:-1,La Lamada Siniestra (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Lamada Siniestra (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40674.mkv
-#EXTINF:-1,El día que me perdí (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El día que me perdí (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40675.mkv
-#EXTINF:-1,La Bestia (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La Bestia (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40677.mkv
-#EXTINF:-1,Locas por el Cambio (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Locas por el Cambio (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40678.mkv
-#EXTINF:-1,Orsai (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",,Orsai (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40680.mkv
-#EXTINF:-1,La rosa venenosa (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La rosa venenosa (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40682.mkv
-#EXTINF:-1,Come Play (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Come Play (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40653.mkv
-#EXTINF:-1,Behind the Line: Escape to Dunkirk (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Behind the Line: Escape to Dunkirk (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40654.mkv
-#EXTINF:-1,El testamento de la abuela (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El testamento de la abuela (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40655.mkv
-#EXTINF:-1,Historias lamentables (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Historias lamentables (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40656.mkv
-#EXTINF:-1,La galería de los corazones rotos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La galería de los corazones rotos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40658.mkv
-#EXTINF:-1,LEGO Star Wars: Especial Felices Fiestas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",LEGO Star Wars: Especial Felices Fiestas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40659.mkv
-#EXTINF:-1,(Re)cambio De Princesa (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",(Re)cambio De Princesa (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40661.mkv
-#EXTINF:-1,La verdadera historia de la banda de Kelly (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La verdadera historia de la banda de Kelly (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40662.mkv
-#EXTINF:-1,Amores modernos (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Amores modernos (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40652.mkv
-#EXTINF:-1,Robo (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Robo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40657.mkv
-#EXTINF:-1,La increíble historia de David Copperfield (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La increíble historia de David Copperfield (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40660.mkv
-#EXTINF:-1,Baba Yaga: El regreso del demonio (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Baba Yaga: El regreso del demonio (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40155.mkv
-#EXTINF:-1,La citación (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La citación (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40156.mkv
-#EXTINF:-1,Cuidado con lo que deseas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cuidado con lo que deseas (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40157.mkv
-#EXTINF:-1,The Most Beautiful Day in the World (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Most Beautiful Day in the World (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40158.mkv
-#EXTINF:-1,Escuela para seductores (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Escuela para seductores (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40159.mkv
-#EXTINF:-1,Figli (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Figli (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40160.mkv
-#EXTINF:-1,Greenland: El último refugio (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Greenland: El último refugio (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40161.mkv
-#EXTINF:-1,Los nuevos mutantes (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los nuevos mutantes (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40162.mkv
-#EXTINF:-1,Ludo (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ludo (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40163.mkv
-#EXTINF:-1,Nunca, casi nunca, a veces, siempre (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Nunca, casi nunca, a veces, siempre (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40164.mkv
-#EXTINF:-1,Os Espetaculares (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Os Espetaculares (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40165.mkv
-#EXTINF:-1,Sleeping with Danger (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sleeping with Danger (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40166.mkv
-#EXTINF:-1,La vida por delante (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La vida por delante (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40167.mkv
-#EXTINF:-1,Eternamente enamorados (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Eternamente enamorados (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40168.mkv
-#EXTINF:-1,Somos osos: La película (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Somos osos: La película (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40169.mkv
-#EXTINF:-1,La vida que queríamos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La vida que queríamos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40170.mkv
-#EXTINF:-1,Bob Esponja: Un héroe al rescate (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bob Esponja: Un héroe al rescate (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40097.mkv
-#EXTINF:-1,Becky (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Becky (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40089.mkv
-#EXTINF:-1,Casa ajena (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Casa ajena (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40090.mkv
-#EXTINF:-1,Menéndez: El día del señor (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Menéndez: El día del señor (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40091.mkv
-#EXTINF:-1,Nadie duerme en el bosque esta noche (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Nadie duerme en el bosque esta noche (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40092.mkv
-#EXTINF:-1,Operación Feliz Navidad (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Operación Feliz Navidad (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40093.mkv
-#EXTINF:-1,Bronx (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Bronx (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40094.mkv
-#EXTINF:-1,Los secretos de la tumba de Saqqara (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los secretos de la tumba de Saqqara (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40095.mkv
-#EXTINF:-1,The Debt Collector (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Debt Collector (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40096.mkv
-#EXTINF:-1,Upside (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Upside (2010)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40098.mkv
-#EXTINF:-1,2067 (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",2067 (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40063.mkv
-#EXTINF:-1,Ben 10 contra el Universo: La película (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ben 10 contra el Universo: La película (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40064.mkv
-#EXTINF:-1,Clouds (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Clouds (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40065.mkv
-#EXTINF:-1,Emperador (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Emperador (2012)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40066.mkv
-#EXTINF:-1,The Evil Eye (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Evil Eye (2018)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40067.mkv
-#EXTINF:-1,¡Feliz Halloween, Scooby-Doo! (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¡Feliz Halloween, Scooby-Doo! (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40068.mkv
-#EXTINF:-1,Consejos de una canguro para cazar monstruos (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Consejos de una canguro para cazar monstruos (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40069.mkv
-#EXTINF:-1,Heavenquest: A Pilgrim's Progress (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Heavenquest: A Pilgrim's Progress (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40070.mkv
 #EXTINF:-1,Las tres muertes de Marisela Escobedo (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/40072.mkv
@@ -8036,73 +8036,73 @@ http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29724.mkv
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29725.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Lara Croft: Tomb Raider 2 - La cuna de la vida (2003)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29726.mkv
-#EXTINF:-1,Cortocircuito (1943)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cortocircuito (1943)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29687.mkv
-#EXTINF:-1,Cortocircuito 2 (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cortocircuito 2 (1988)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29688.mkv
-#EXTINF:-1,El Dia Despues de Mañana (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",El Dia Despues de Mañana (2004)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29686.mkv
-#EXTINF:-1,Cosas de hombres (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Cosas de hombres (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29451.mkv
-#EXTINF:-1,2 Minutes of Fame (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",2 Minutes of Fame (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29448.mkv
-#EXTINF:-1,Forces of Nature (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Forces of Nature (2012)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29452.mkv
-#EXTINF:-1,La bala perdida (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La bala perdida (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29453.mkv
-#EXTINF:-1,Mob Town (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Mob Town (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29454.mkv
-#EXTINF:-1,Vivarium (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Vivarium (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29455.mkv
-#EXTINF:-1,7500 (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",7500 (2014)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29449.mkv
-#EXTINF:-1,Ajuste de cuentas (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Ajuste de cuentas (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29450.mkv
-#EXTINF:-1,Socios y sabuesos (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Socios y sabuesos (1989)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29447.mkv
-#EXTINF:-1,La barbería (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La barbería (2002)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29269.mkv
-#EXTINF:-1,La barbería 2: Vuelta al negocio (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La barbería 2: Vuelta al negocio (2004)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29270.mkv
-#EXTINF:-1,La barbería 3: Todo el mundo necesita un corte (2016).
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",La barbería 3: Todo el mundo necesita un corte (2016).
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29271.mkv
-#EXTINF:-1,¿Cuándo llegamos? (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",¿Cuándo llegamos? (2005)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29267.mkv
-#EXTINF:-1,Una casa patas arriba (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Una casa patas arriba (2007)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29268.mkv
-#EXTINF:-1,Patients of a Saint (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Patients of a Saint (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29265.mkv
-#EXTINF:-1,365 Days (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",365 Days (2015)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29068.mkv
-#EXTINF:-1,10 Things We Should Do Before We Break Up (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",10 Things We Should Do Before We Break Up (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29067.mkv
-#EXTINF:-1,Dragonheart: Vengeance (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Dragonheart: Vengeance (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29069.mkv
-#EXTINF:-1,Las píldoras de mi novio (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Las píldoras de mi novio (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29072.mkv
-#EXTINF:-1,The vast of night (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The vast of night (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29076.mkv
-#EXTINF:-1,Think Like a Dog (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Think Like a Dog (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29077.mkv
-#EXTINF:-1,D-Day: El rey que engañó a Hitler (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",D-Day: El rey que engañó a Hitler (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29070.mkv
-#EXTINF:-1,Judy (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Judy (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29071.mkv
-#EXTINF:-1,Locusts (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Locusts (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29073.mkv
-#EXTINF:-1,Sea of Shadows (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Sea of Shadows (2019)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29074.mkv
-#EXTINF:-1,The Assent (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",The Assent (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29075.mkv
-#EXTINF:-1,Los últimos días del crimen (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Los últimos días del crimen (2020)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29078.mkv
-#EXTINF:-1,Beethoven: Uno más de la familia (1992)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Beethoven: Uno más de la familia (1992)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29055.mkv
-#EXTINF:-1,Beethoven 2: La familia crece (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Beethoven 2: La familia crece (1993)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29056.mkv
-#EXTINF:-1,Beethoven 3: De excursión con la familia (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Beethoven 3: De excursión con la familia (2000)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29057.mkv
-#EXTINF:-1,Beethoven 4: Enredo en la familia (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="🍿MOVIESᵛᶦᵖ🌐ESPANOL🇪🇸",Beethoven 4: Enredo en la familia (2001)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29058.mkv
 #EXTINF:-1,Beethoven 5: El perro buscatesoros (2003)
 http://xdplay.tv:8080/movie/dannyrx15/jvgKdjsjKC/29059.mkv
