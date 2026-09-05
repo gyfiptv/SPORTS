@@ -6,45 +6,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🎦GODmovies🎚  ▂ ▄ ▅ ▆🍟  🎥Video-On-Demandᵛᶦᵖ♥🎥  🍟▆ ▅ ▄ ▂
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Pasión de Cristo (2004)
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/22929.mp4
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Pasión de Cristo ES|EN (opt2)
-http://tv-privado.live:8080/movie/dannyrx15/jvgKdjsjKC/27340.mkv 
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt1)
-http://vod.4retnec.co:8800/c4.php?h=MTY1MDIwNTUzMQ%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt2)
-http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ War Room
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27315.mp4
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath (2015)
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27316.avi
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ God's Not Dead | A Light In Darkness
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27317.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ God's Not Dead 2 
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27318.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Young Messiah
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27319.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Two Popes
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27320.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Moises | EXODUS: Gods and Kings (2015
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27321.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Vida de Jesus
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27322.mkv
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Killing esus | Quien Mato a Jesus (2015)
-http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27323.mp4
-
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Jesús de Nazareth Parte 1
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27324.mkv
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Jesús de Nazareth Parte 2
@@ -75,6 +36,57 @@ http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27336.mkv
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Biblia Miniserie Capitulo 10 Valor
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27337.mkv
 
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN (opt1)
+http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2MQ%3D%3D&v=english_David-and-Goliath_20170217015418.mp4
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN (opt2)
+http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=english_David-and-Goliath_20170217015418.mp4
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath PT (opt1)
+http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2Mg%3D%3D&v=portugais_David-and-Goliath_20191215011639.mp4
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath PT (opt2)
+http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=portugais_David-and-Goliath_20191215011639.mp4
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt1)
+http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2Mg%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt2)
+http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
+
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Pasión de Cristo ES (2004)
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/22929.mp4
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Pasión de Cristo ES|EN (2004)
+http://tv-privado.live:8080/movie/dannyrx15/jvgKdjsjKC/27340.mkv 
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ War Room
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27315.mp4
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath (2015)
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27316.avi
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ God's Not Dead | A Light In Darkness
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27317.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ God's Not Dead 2 
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27318.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Young Messiah
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27319.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Two Popes
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27320.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Moises | EXODUS: Gods and Kings (2015
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27321.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Vida de Jesus
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27322.mkv
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Killing esus | Quien Mato a Jesus (2015)
+http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27323.mp4
+
+
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Cruc✝fixion
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27338.mkv
 
@@ -84,7 +96,7 @@ http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27339.mkv
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ La Pasion de Cris✝o (2004)
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27340.mkv
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Risen (2021)
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ Risen ES (2021)
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27341.mkv
 
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Last Temptation of Christ
@@ -120,19 +132,23 @@ http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27367.mkv
 http://xdgo.live:8080/movie/dannyrx15/jvgKdjsjKC/27928.mkv
 
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath (1960)
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN (1960)
 http://archive.org/download/DavidandGoliath1960/DavidandGoliath1960_512kb.mp4
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN (opt1)
 http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2MQ%3D%3D&v=english_David-and-Goliath_20170217015418.mp4
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath PT
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath EN (opt2)
+http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=english_David-and-Goliath_20170217015418.mp4
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath PT (opt1)
 http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2Mg%3D%3D&v=portugais_David-and-Goliath_20191215011639.mp4
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ David and Goliath PT (opt2)
+http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=portugais_David-and-Goliath_20191215011639.mp4
 
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt1)
-http://vod.4retnec.co:8800/c4.php?h=MTY1MDIwNTUzMQ%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
+http://vod.iscaja.me:8800/cj.php?h=MTY2MzA5OTI2Mg%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",✝ The Passion of the Christ | PT (opt2)
 http://vod.4retnec.co:8800/c4.php?h=MTY2MjAyNDY0Ng%3D%3D&v=portugais_The-Passion-of-the-Christ_20200120182741.mp4
-
 
 
 #EXTM3U
@@ -163,8 +179,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 https://streamer1.nexgen.bz/TBN/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝ABN Bible Movies Channel US
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝ABN Bible Moviesᵀᵛ Channel US
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☑ ✝3ABN Kids US
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
@@ -196,7 +211,6 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☑ ✝EXTREMA TV FHD (Movies)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☑ ✝Solidaria TV (ES)
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☑ ✝Hosanna Vision (PA)
@@ -208,11 +222,35 @@ https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☑ ✝Amazing Discoveries ADTV (CA)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt1)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7494.ts
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt1) 
+http://mains.best:2086/3003556325/2772007/66571
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt2)
+http://mains.services:2086/4523074511/3178768/66571.ts
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt3)
+http://mains.services:2086/640939802963/IDC01478!/66571
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/66571
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸 ABN ✝BibleMoviesᵀᵛ
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.m3u8
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7494.ts
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7494
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt4)
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7494.m3u
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸® ✝ENLACE (opt5)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7494.mpd
+
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt1) 
+http://mains.best:2086/3003556325/2772007/102386
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt2)
+http://mains.services:2086/4523074511/3178768/102386
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102386
+#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/102386
 
 
 
@@ -229,7 +267,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cornerstone
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸⚽ ✝CORNERSTONE TELEVISION (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cornerstone.television.us.m3u8
-
 
 #EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸⚽ ✝Bet* Gospel (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.gospel.us.m3u8
@@ -261,22 +298,7 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/ctn.christi
 
 
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt1) 
-http://mains.best:2086/3003556325/2772007/66571
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt2)
-http://mains.services:2086/4523074511/3178768/66571.ts
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸☆ ✝ENLACE TV (opt3)
-http://mains.services:2086/640939802963/IDC01478!/66571
 
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇪🇸©a00u PARAMOUNT NETWORK (Prueba) x
-http://45.5.116.178:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt1) 
-http://mains.best:2086/3003556325/2772007/102386
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt2)
-http://mains.services:2086/4523074511/3178768/102386
-#EXTINF:-1 group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸☆ ✝TBN (opt3)
-http://mains.services:2086/640939802963/IDC01478!/102386
 
 #EXTINF:-1 tvg-id="TBNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="🙏🏻Chris✝ianTV🇨🇭MOVIES",🇺🇸Ⓜ¹ ✝TBN uk
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -4061,7 +4083,7 @@ http://00322.xyz:8000/movie/carlosquiroz52/MQPM675V4S/134791.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ1️⃣",🎦✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ🌎   ▂ ▄ ▅ ▆ 🎥🇺🇸01🇪🇸 🍿VODᵛᶦᵖ🎥  ▆ ▅ ▄ ▂
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🌎   alfa🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🍿
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🍿MOVIESᵛᶦᵖ1️⃣",🎦✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ🌎   alfa 🍿🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🍿
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
